@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Comparte las referencias exportadas por la pantalla debug de captura. -->
+<paths>
+    <external-files-path
+        name="references"
+        path="references/" />
+</paths>
