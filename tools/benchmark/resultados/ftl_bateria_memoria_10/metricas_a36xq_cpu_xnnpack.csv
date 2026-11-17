@@ -1,0 +1,24 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0001_elevacion_lateral,178.3,5.6,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0002_sentadilla,175.6,5.7,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0002_sentadilla,178.2,5.6,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0005_talones,177.1,5.6,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0005_talones,176.7,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0005_talones,178.0,5.6,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0006_ext_rodilla,176.1,5.7,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0006_ext_rodilla,176.5,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0006_ext_rodilla,177.3,5.6,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0006_ext_rodilla_heldout,176.9,5.7,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,app_0006_ext_rodilla_heldout,176.0,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e01_cam3,176.3,5.7,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e01_cam3,176.6,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e01_cam3,177.4,5.6,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s14_e05_cam0,177.7,5.6,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s14_e05_cam0,176.6,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s14_e05_cam0,176.1,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e13_cam2,177.1,5.6,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e13_cam2,176.8,5.7,3.7
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s4_e13_cam2,176.3,5.7,3.7
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s11_e09_cam4,177.7,5.6,
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s11_e09_cam4,176.2,5.7,3.8
+samsung SM-A366E,SM6475 (QTI),15,yolov8n-pose_int8.tflite,CPU_XNNPACK,20261114,uco_s11_e09_cam4,176.0,5.7,3.8

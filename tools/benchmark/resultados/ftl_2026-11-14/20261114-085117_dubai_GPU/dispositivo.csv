@@ -1,0 +1,39 @@
+clave,valor
+fabricante,motorola
+modelo,motorola edge 30
+codename,dubai
+soc,SM7325 (QTI)
+gpu,Adreno (TM) 642L
+android,14
+api,34
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2515
+ram_mb,7382
+fingerprint,motorola/dubai_ge/dubai:14/U1RDS34.80-40-5-6/ba4fd-68ef4:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2180.1
+build_type,debug
+fecha,20261114-085117
+cargador_inicio,ac
+uid_batterystats,u0a337
+bateria_capacidad_estimada_mah,4075
+pss_antes_modelo_mb,145.1
+java_heap_antes_modelo_mb,12.1
+native_heap_antes_modelo_mb,33.9
+graficos_antes_modelo_mb,0.2
+rss_antes_modelo_mb,311.2
+vmhwm_antes_modelo_mb,311.2
+pss_con_modelo_mb,200.0
+java_heap_con_modelo_mb,12.2
+native_heap_con_modelo_mb,38.4
+graficos_con_modelo_mb,22.4
+rss_con_modelo_mb,367.3
+vmhwm_con_modelo_mb,368.3
+reposo_s,20.0
+reposo_cpu_pct,4.142956973145653
+reposo_mah,0.00553
+reposo_mah_por_min,0.01656184486373166
+reposo_rss_max_mb,370.13671875

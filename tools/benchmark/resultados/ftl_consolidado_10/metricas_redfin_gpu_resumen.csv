@@ -1,0 +1,2 @@
+dispositivo,soc,android,modelo,delegate,muestras,media_ms,p50_ms,p90_ms,min_ms,max_ms,fps_p50,fps_efectivo_p50,fps_efectivo_min,fps_efectivo_max
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,16,117.8,118.3,121.9,111.6,123.9,8.5,3.4,3.4,3.5

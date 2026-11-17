@@ -1,0 +1,2 @@
+dispositivo,soc,modelo,delegate,factor_central,factor_min,factor_max,muestras_base,media_ms,p50_ms,p90_ms,p50_ms_rango,min_ms,max_ms,fps_p50,fps_efectivo_p50,fps_efectivo_min,fps_efectivo_max
+Motorola Moto G60,Snapdragon 732G (SM7150),yolov8n-pose_int8.tflite,GPU,0.9,0.85,0.95,85,126.2,117.1,146.4,111-124,108.5,153.1,8.5,3.6,3.2,3.7

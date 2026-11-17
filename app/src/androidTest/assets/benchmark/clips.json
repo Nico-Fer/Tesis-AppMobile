@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "modeloEscritorio": "yolov8n-pose_int8.tflite",
+  "md5Modelo": "ee27dcf9f0ad0c25fcf37868e097ad68",
+  "geometria": "640x480 YUV + rotationDegrees=90",
+  "clips": [
+    {
+      "id": "app_0001_elevacion_lateral",
+      "archivo": "app_0001_elevacion_lateral.mp4",
+      "grupo": "app",
+      "exerciseId": "C1000000-0000-0000-0000-000000000001",
+      "rotationDegrees": 90,
+      "fps": 30.0,
+      "frames": 342,
+      "duracionS": 11.4,
+      "repsEsperadas": 2,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/references/videos/C1000000-0000-0000-0000-000000000001.mp4",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": null,
+        "ventanaVerticalPx": [
+          -84,
+          31,
+          744,
+          992
+        ]
+      },
+      "notas": "Sentado, frontal, bilateral. Fuente de la referencia (control positivo)."
+    },
+    {
+      "id": "app_0002_sentadilla",
+      "archivo": "app_0002_sentadilla.mp4",
+      "grupo": "app",
+      "exerciseId": "C1000000-0000-0000-0000-000000000002",
+      "rotationDegrees": 90,
+      "fps": 30.0,
+      "frames": 495,
+      "duracionS": 16.5,
+      "repsEsperadas": 4,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/references/videos/c1000000-0000-0000-0000-000000000002.MOV",
+      "recorte": {
+        "inicioS": 1.9,
+        "finS": null,
+        "ventanaVerticalPx": [
+          -180,
+          0,
+          1440,
+          1920
+        ]
+      },
+      "notas": "De pie, frontal, bilateral. Fuente de la referencia (control positivo)."
+    },
+    {
+      "id": "app_0005_talones",
+      "archivo": "app_0005_talones.mp4",
+      "grupo": "app",
+      "exerciseId": "C1000000-0000-0000-0000-000000000005",
+      "rotationDegrees": 90,
+      "fps": 30.0,
+      "frames": 745,
+      "duracionS": 24.83,
+      "repsEsperadas": 7,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/references/videos/c1000000-0000-0000-0000-000000000005.MOV",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": null,
+        "ventanaVerticalPx": [
+          -125,
+          129,
+          1329,
+          1773
+        ]
+      },
+      "notas": "De pie, frontal. Señal = artefacto del detector (ver README de referencias)."
+    },
+    {
+      "id": "app_0006_ext_rodilla",
+      "archivo": "app_0006_ext_rodilla.mp4",
+      "grupo": "app",
+      "exerciseId": "C1000000-0000-0000-0000-000000000006",
+      "rotationDegrees": 90,
+      "fps": 30.0,
+      "frames": 908,
+      "duracionS": 30.27,
+      "repsEsperadas": 3,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/references/videos/c1000000-0000-0000-0000-000000000006_SinManos.MOV",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": null,
+        "ventanaVerticalPx": [
+          -95,
+          199,
+          1270,
+          1694
+        ]
+      },
+      "notas": "Sentado, frontal, pierna izquierda. Fuente de la referencia."
+    },
+    {
+      "id": "app_0006_ext_rodilla_heldout",
+      "archivo": "app_0006_ext_rodilla_heldout.mp4",
+      "grupo": "app",
+      "exerciseId": "C1000000-0000-0000-0000-000000000006",
+      "rotationDegrees": 90,
+      "fps": 29.999,
+      "frames": 474,
+      "duracionS": 15.8,
+      "repsEsperadas": null,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/references/videos/c1000000-0000-0000-0000-000000000006_CpnManos.MOV",
+      "recorte": {
+        "inicioS": 21.0,
+        "finS": null,
+        "ventanaVerticalPx": [
+          -60,
+          291,
+          1200,
+          1601
+        ]
+      },
+      "notas": "Toma descartada como referencia (manos sobre la rodilla): ejecución held-out."
+    },
+    {
+      "id": "uco_s4_e01_cam3",
+      "archivo": "uco_s4_e01_cam3.mp4",
+      "grupo": "uco",
+      "exerciseId": null,
+      "rotationDegrees": 90,
+      "fps": 25.0,
+      "frames": 600,
+      "duracionS": 24.0,
+      "repsEsperadas": null,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/raw/uco/clips_mp4/4/01/cam3.mp4",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": 24.0,
+        "ventanaVerticalPx": [
+          402,
+          232,
+          337,
+          450
+        ]
+      },
+      "notas": "Sentado, extensión de rodilla izquierda (≈ ejercicio 0006)."
+    },
+    {
+      "id": "uco_s14_e05_cam0",
+      "archivo": "uco_s14_e05_cam0.mp4",
+      "grupo": "uco",
+      "exerciseId": null,
+      "rotationDegrees": 90,
+      "fps": 25.0,
+      "frames": 600,
+      "duracionS": 24.0,
+      "repsEsperadas": null,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/raw/uco/clips_mp4/14/05/cam0.mp4",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": 24.0,
+        "ventanaVerticalPx": [
+          717,
+          17,
+          526,
+          702
+        ]
+      },
+      "notas": "Sentado, extensión de rodilla derecha; otro sujeto y lado."
+    },
+    {
+      "id": "uco_s4_e13_cam2",
+      "archivo": "uco_s4_e13_cam2.mp4",
+      "grupo": "uco",
+      "exerciseId": null,
+      "rotationDegrees": 90,
+      "fps": 25.0,
+      "frames": 600,
+      "duracionS": 24.0,
+      "repsEsperadas": null,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/raw/uco/clips_mp4/4/13/cam2.mp4",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": 24.0,
+        "ventanaVerticalPx": [
+          463,
+          185,
+          400,
+          534
+        ]
+      },
+      "notas": "Sentado, elevación de brazo derecho (miembro superior)."
+    },
+    {
+      "id": "uco_s11_e09_cam4",
+      "archivo": "uco_s11_e09_cam4.mp4",
+      "grupo": "uco",
+      "exerciseId": null,
+      "rotationDegrees": 90,
+      "fps": 25.0,
+      "frames": 600,
+      "duracionS": 24.0,
+      "repsEsperadas": null,
+      "deteccionEscritorio": 1.0,
+      "fuente": "data/raw/uco/clips_mp4/11/09/cam4.mp4",
+      "recorte": {
+        "inicioS": 0.0,
+        "finS": 24.0,
+        "ventanaVerticalPx": [
+          359,
+          136,
+          437,
+          583
+        ]
+      },
+      "notas": "Sentado, elevación de brazo izquierdo; tercer sujeto."
+    }
+  ]
+}

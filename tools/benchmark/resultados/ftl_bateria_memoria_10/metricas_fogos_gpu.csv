@@ -1,0 +1,25 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0001_elevacion_lateral,105.6,9.5,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0002_sentadilla,115.6,8.6,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0002_sentadilla,117.4,8.5,4.4
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,115.6,8.7,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,116.9,8.6,4.4
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,115.6,8.6,3.7
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,120.0,8.3,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,116.6,8.6,4.4
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,116.6,8.6,3.7
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,116.1,8.6,3.8
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla_heldout,113.2,8.8,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla_heldout,117.3,8.5,4.5
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,117.3,8.5,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,119.7,8.4,4.6
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,121.1,8.3,3.7
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,117.6,8.5,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,117.7,8.5,4.4
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,119.3,8.4,3.7
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,116.4,8.6,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,118.5,8.4,4.4
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,116.5,8.6,3.7
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,115.3,8.7,
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,116.0,8.6,4.5
+motorola moto g34 5G,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,115.7,8.6,3.7

@@ -1,0 +1,221 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 5000 mAh
+  Last learned battery capacity: 5000 mAh
+  Min learned battery capacity: 5000 mAh
+  Max learned battery capacity: 5000 mAh
+  Time on battery: 31s 0ms (100.0%) realtime, 31s 0ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 31s 0ms realtime, 31s 0ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-14-08-52-33
+  Screen on: 31s 0ms (100.0%) 0x, Interactive: 31s 0ms (100.0%)
+  Screen brightnesses:
+    dark 31s 0ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 31s 0ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  17s 503ms (56.5%)
+     Cellular Idle time:   378ms (1.2%)
+     Cellular Rx time:     14s 357ms (46.3%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Active Cellular Radio Access Technology Breakdown:
+       (no activity)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       very poor (less than -128dBm):  31s 0ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 2s 871ms (9.3%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  30s 941ms (99.8%)
+     WiFi Idle time:   61ms (0.2%)
+     WiFi Rx time:     0ms (0.0%)
+     WiFi Tx time:     0ms (0.0%)
+     Wifi data received: 0B
+     Wifi data sent: 64B
+     Wifi packets received: 0
+     Wifi packets sent: 1
+     Wifi states:
+       sta 31s 0ms (100.0%) 
+     Wifi supplicant states:
+       completed 31s 0ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 31s 0ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   956ms (3.1%)
+     Bluetooth Rx time:     510ms (1.6%)
+     Bluetooth Tx time:     0ms (0.0%)
+     Bluetooth Battery drain: 0.00703mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 5000, Computed drain: 0, actual drain: 0, discharge percentage: 0
+    Global
+      screen: 0.673 apps: 0.673 duration: 31s 3ms 
+      bluetooth: 0.00703 apps: 0 duration: 1s 466ms 
+      system_services: 0.00727 apps: 0.00727
+      sensors: 0.140 apps: 0.140
+      wifi: 0.000403 apps: 0.000403
+      idle: 0.0775 apps: 0 duration: 31s 3ms 
+    UID 1000: 0.132 ( cpu=0 (3s 381ms) sensors=0.140 (4m 54s 528ms) reattributed=-0.00727192 ) 
+    UID u0a343: 0.00334 ( cpu=0 (22s 459ms) video=0 (30s 528ms) system_services=0.00334 ) 
+    UID u0a179: 0.00204 ( cpu=0 (138ms) system_services=0.00182 sensors=0.000215 (31s 3ms) ) 
+    UID u0a342: 0.000463 ( cpu=0 (598ms) system_services=0.000463 ) 
+    UID 0: 0.000403 ( cpu=0 (5s 232ms) wifi=0.000403 ) 
+    UID u0a269: 0.000358 ( cpu=0 (235ms) system_services=0.000358 ) 
+    UID u0a298: 0.000333 ( cpu=0 (364ms) audio=0 (829ms) system_services=0.000329 sensors=0.00000431 (15s 501ms) ) 
+    UID u0a209: 0.000224 ( cpu=0 (48ms) system_services=0.000224 ) 
+    UID u0a234: 0.000209 ( cpu=0 (22ms) system_services=0.000209 ) 
+    UID u0a207: 0.000179 ( cpu=0 (68ms) system_services=0.000179 ) 
+    UID u0a175: 0.000130 ( cpu=0 (12ms) system_services=0.000105 sensors=0.0000258 (1m 33s 8ms) ) 
+    UID u0a270: 0.0000597 ( cpu=0 (1ms) system_services=0.0000597 ) 
+    UID u0a267: 0.0000448 ( cpu=0 (2ms) system_services=0.0000448 ) 
+    UID u0a222: 0.0000299 ( cpu=0 (1ms) system_services=0.0000299 ) 
+    UID u0a251: 0.0000299 ( cpu=0 (1ms) system_services=0.0000299 ) 
+    UID u0a294: 0.0000299 ( cpu=0 (3ms) system_services=0.0000299 ) 
+    UID u0a199: 0.0000149 ( cpu=0 (86ms) system_services=0.0000149 ) 
+    UID u0a296: 0.0000149 ( cpu=0 (2ms) system_services=0.0000149 ) 
+    UID u0a313: 0.0000149 ( system_services=0.0000149 ) 
+
+  CPU freqs: 300000 576000 710400 940800 1190400 1324800 1478400 1574400 1708800 1804800 1900800 768000 979200 1017600 1248000 1401600 1536000 1651200 1804800 2035200 2208000
+
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock *telephony-radio* realtime
+    Sensor 1: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 2: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 3: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 4: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 5: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 16777227: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 16777300: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 16777487: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 16777518: 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Sensor 16842794: 15s 500ms blamed realtime, 31s 0ms realtime (0 times), 31s 0ms background (0 times)
+    Total cpu time: u=1s 576ms s=1s 805ms 
+    Total cpu time per freq: 0 1101 219 144 419 106 112 47 88 36 1022 3 2 0 6 2 0 0 0 2 75
+  u0a343:
+    Video: 30s 528ms realtime (1 times)
+    Foreground services: 31s 0ms realtime (0 times) (running)
+    Fg Service for: 31s 0ms 
+    Total running: 31s 0ms 
+    Total cpu time: u=19s 288ms s=3s 171ms 
+    Total cpu time per freq: 0 3590 870 672 1944 676 587 370 374 135 1945 55 348 49 136 46 299 136 284 201 9552
+    Cpu times per freq at state Fg Service: 0 3590 870 679 1938 676 587 370 366 135 1949 55 348 49 136 46 299 136 284 200 9537
+
+Per process state tracking available: true
+Total cpu time reads: 5509
+Batching Duration (min): 3518
+All UID cpu time reads since the later of device start or stats reset: 12
+UIDs removed since the later of device start or stats reset: 0
+Currently mapped isolated uids:
+  1037->1000 (ref count = 1)
+
+BatteryStats constants:
+    track_cpu_active_cluster_time=true
+    kernel_uid_readers_throttle_time=1000
+    external_stats_collection_rate_limit_ms=600000
+    battery_level_collection_delay_ms=300000
+    procstate_change_collection_delay_ms=60000
+    max_history_files=32
+    max_history_buffer_kb=128
+    battery_charged_delay_ms=900000
+    record_usage_history=false
+    per_uid_modem_power_model=modem_activity_info_rx_tx
+    phone_on_external_stats_collection=true
+    reset_while_plugged_in_minimum_duration_hours=47
+
+CPU power brackets; cluster/freq in MHz(avg current in mA):
+    0: 0/300(22.3), 0/576(25.9), 0/710(27.7), 0/940(32.7), 0/1190(36.5), 0/1324(39.8), 0/1478(43.1)
+    1: 0/1574(51.9), 0/1708(54.9), 0/1804(58.0), 1/768(45.3), 1/979(55.7), 1/1017(57.7), 1/1248(70.8), 1/1401(84.4)
+    2: 1/1536(93.1), 1/1651(111.6), 1/1804(134.1), 1/2035(168.5)
+
+On-battery energy consumer stats (microcoulombs) 
+    Not supported on this device.
+
+CPU wakeup stats:
+  Config:
+    wakeup_stats_retention_ms=+3d0h0m0s0ms
+    wakeup_matching_window_ms=+1s0ms
+    waking_activity_retention_ms=+5m0s0ms
+  
+  Irq device map:
+    Loaded from xml resource: 0x117000a
+    Map:
+  
+  Recent waking activity:
+    Subsystem Alarm:
+      -4m25s847ms: 1073 [PER ], 
+    Subsystem Sensor:
+      -41s336ms: 1000 [PER ], 
+      -42s991ms: 1000 [PER ], 
+      -44s62ms: 1000 [PER ], 
+      -45s231ms: 1000 [PER ], 
+      -46s400ms: 1000 [PER ], 
+      -48s834ms: 1000 [PER ], 
+      -50s3ms: 1000 [PER ], 
+      -51s270ms: 1000 [PER ], 
+      -1m47s569ms: 1000 [PER ], 
+      -1m49s128ms: 1000 [PER ], 
+      -1m50s200ms: 1000 [PER ], 
+      -1m53s219ms: 1000 [PER ], 
+      -1m54s874ms: 1000 [PER ], 
+      -2m53s135ms: 1000 [PER ], 
+      -2m54s303ms: 1000 [PER ], 
+      -2m56s446ms: 1000 [PER ], 
+      -2m57s518ms: 1000 [PER ], 
+      -2m58s882ms: 1000 [PER ], 
+      -2m59s951ms: 1000 [PER ], 
+      -3m1s412ms: 1000 [PER ], 
+      -3m2s485ms: 1000 [PER ], 
+      -3m56s930ms: 1000 [PER ], 
+      -3m58s684ms: 1000 [PER ], 
+      -3m59s755ms: 1000 [PER ], 
+      -4m0s826ms: 1000 [PER ], 
+      -4m1s897ms: 1000 [PER ], 
+      -4m2s968ms: 1000 [PER ], 
+      -4m4s235ms: 1000 [PER ], 
+      -4m5s501ms: 1000 [PER ], 
+      -4m7s156ms: 1000 [PER ], 
+      -4m59s158ms: 1000 [PER ], 
+      -5m0s619ms: 1000 [PER ], 
+      -5m1s690ms: 1000 [PER ], 
+      -5m5s584ms: 1000 [PER ], 
+  
+  Current proc-state map (154):
+    1000:PER , 1001:PER , 1002:PER , 1007:PER , 1027:PER , 1037:NONE, 1068:PER , 1073:PER , 2000:NONE, u0a103:NONE, u0a105:NONE, u0a106:NONE, u0a107:NONE, u0a109:CEM , u0a110:NONE, u0a111:CEM , u0a112:NONE, u0a113:IMPF, u0a115:NONE, u0a116:NONE, u0a136:NONE, u0a139:CEM , u0a140:NONE, u0a141:PER , u0a142:NONE, u0a144:NONE, u0a146:NONE, u0a148:NONE, u0a152:BFGS, u0a153:NONE, u0a154:NONE, u0a155:SVC , u0a159:BFGS, u0a160:NONE, u0a163:CEM , u0a164:CEM , u0a165:NONE, u0a166:NONE, u0a168:NONE, u0a169:NONE, u0a170:NONE, u0a171:NONE, u0a172:NONE, u0a173:NONE, u0a175:IMPF, u0a176:CEM , u0a177:NONE, u0a179:FGS , u0a181:CEM , u0a182:CEM , u0a183:BFGS, u0a184:NONE, u0a185:NONE, u0a186:CEM , u0a187:NONE, u0a188:NONE, u0a189:SVC , u0a193:NONE, u0a195:NONE, u0a196:NONE, u0a199:CEM , u0a201:NONE, u0a203:NONE, u0a207:BFGS, u0a208:CEM , u0a209:BFGS, u0a213:NONE, u0a215:NONE, u0a216:NONE, u0a218:NONE, u0a219:NONE, u0a222:IMPB, u0a226:PER , u0a227:NONE, u0a228:NONE, u0a229:NONE, u0a231:PER , u0a234:IMPF, u0a235:NONE, u0a236:NONE, u0a238:NONE, u0a247:NONE, u0a250:IMPF, u0a251:IMPF, u0a254:IMPF, u0a255:NONE, u0a259:NONE, u0a261:NONE, u0a262:NONE, u0a263:NONE, u0a264:NONE, u0a265:NONE, u0a266:PER , u0a267:BFGS, u0a268:PER , u0a269:SVC , u0a270:IMPF, u0a271:CEM , u0a272:IMPF, u0a274:PER , u0a275:PER , u0a276:NONE, u0a278:CEM , u0a279:NONE, u0a280:NONE, u0a281:NONE, u0a282:NONE, u0a283:NONE, u0a286:CEM , u0a288:NONE, u0a289:FGS , u0a293:PER , u0a294:PER , u0a295:PER , u0a296:PER , u0a298:PER , u0a300:NONE, u0a301:PER , u0a302:IMPF, u0a306:PER , u0a309:CEM , u0a311:NONE, u0a313:BFGS, u0a314:NONE, u0a317:CEM , u0a318:NONE, u0a320:PER , u0a327:FGS , u0a329:NONE, u0a332:NONE, u0a334:NONE, u0a335:NONE, u0a336:NONE, u0a339:CEM , u0a341:NONE, u0a342:TOP , u0a343:FGS , u0ai0:NONE, u0ai1:NONE, u0ai2:NONE, u0ai3:NONE, u0ai4:NONE, u0ai5:NONE, u0ai6:NONE, u0ai7:NONE, u0ai8:NONE, u0ai9:NONE, u0ai10:NONE, u0ai9000:NONE, u0i1:NONE, u0i2:NONE, u0i3:NONE, u0i4:NONE, u0i5:NONE
+  
+  Wakeup events:
+  Attribution stats:
+    Total: 0
+

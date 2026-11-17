@@ -1,0 +1,10 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,app_0002_sentadilla,362.8,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,app_0005_talones,360.5,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,app_0006_ext_rodilla,362.0,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,app_0006_ext_rodilla,352.0,2.8,2.0
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,app_0006_ext_rodilla_heldout,357.2,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,uco_s4_e01_cam3,358.1,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,uco_s14_e05_cam0,355.3,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,uco_s4_e13_cam2,358.8,2.8,
+Sony SO-41A,SM6125 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261114,uco_s11_e09_cam4,361.0,2.8,

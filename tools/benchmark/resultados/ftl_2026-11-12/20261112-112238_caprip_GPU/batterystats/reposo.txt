@@ -1,0 +1,201 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 5029 mAh
+  Last learned battery capacity: 5029 mAh
+  Min learned battery capacity: 5029 mAh
+  Max learned battery capacity: 5029 mAh
+  Time on battery: 20s 378ms (100.0%) realtime, 20s 378ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 20s 378ms realtime, 20s 378ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-12-11-22-38
+  Screen on: 20s 378ms (100.0%) 0x, Interactive: 20s 378ms (100.0%)
+  Screen brightnesses:
+    dark 20s 378ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 20s 378ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  0ms (0.0%)
+     Cellular Idle time:   0ms (0.0%)
+     Cellular Rx time:     20s 191ms (99.1%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       very poor (less than -128dBm):  20s 378ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 20s 378ms (100.0%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  19s 182ms (94.1%)
+     WiFi Idle time:   1s 194ms (5.9%)
+     WiFi Rx time:     5ms (0.0%)
+     WiFi Tx time:     4ms (0.0%)
+     Wifi data received: 7.55KB
+     Wifi data sent: 4.19KB
+     Wifi packets received: 23
+     Wifi packets sent: 24
+     Wifi states:
+       sta 20s 378ms (100.0%) 
+     Wifi supplicant states:
+       completed 20s 378ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 20s 378ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   2s 87ms (10.2%)
+     Bluetooth Rx time:     318ms (1.6%)
+     Bluetooth Tx time:     0ms (0.0%)
+     Bluetooth Battery drain: 0.00687mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 5029, Computed drain: 0, actual drain: 0
+    Global
+      screen: 0.688 apps: 0.688 duration: 20s 387ms 
+      cpu: 0.0111 apps: 0.0111
+      bluetooth: 0.00687 apps: 0 duration: 2s 405ms 
+      system_services: 0.00216 apps: 0.00216
+      mobile_radio: 0.450 apps: 0
+      sensors: 0.000159 apps: 0.000159
+      wifi: 0.0169 apps: 0.0169
+      wakelock: 0.00000138 apps: 0 duration: 1ms 
+      idle: 0.0677 apps: 0 duration: 20s 387ms 
+    UID u0a163: 0.0150 ( cpu=0.000228 system_services=0.0000509 wifi=0.0147 ) 
+    UID u0a192: 0.00216 ( cpu=0.00132 system_services=0.000843 ) 
+    UID u0a155: 0.00200 ( cpu=0.000758 system_services=0.000169 wifi=0.00108 ) 
+    UID 0: 0.00132 ( cpu=0.00132 wakelock=0.00000138 ) 
+    UID u0a134: 0.00108 ( cpu=0.00000667 wifi=0.00108 ) 
+    UID u0a193: 0.00108 ( cpu=0.000797 system_services=0.000280 ) 
+    UID u0a153: 0.000888 ( cpu=0.000585 system_services=0.000162 sensors=0.000142 ) 
+    UID u0a206: 0.000697 ( cpu=0.000578 system_services=0.000119 ) 
+    UID u0a281: 0.000688 ( cpu=0.000521 system_services=0.000168 ) 
+    UID u0a166: 0.000572 ( cpu=0.000504 system_services=0.0000682 ) 
+    UID u0a259: 0.000411 ( cpu=0.000411 ) 
+    UID u0a170: 0.000406 ( cpu=0.000352 system_services=0.0000543 ) 
+    UID 2000: 0.000386 ( cpu=0.000386 ) 
+    UID u0a280: 0.000268 ( cpu=0.000244 system_services=0.0000243 ) 
+    UID u0a141: 0.000216 ( cpu=0.000168 system_services=0.0000474 ) 
+    UID u0a219: 0.000207 ( cpu=0.000167 system_services=0.0000393 ) 
+    UID u0a137: 0.000129 ( cpu=0.000101 system_services=0.0000279 ) 
+    UID 1010: 0.000100 ( cpu=0.000100 ) 
+    UID 5101: 0.0000617 ( cpu=0.0000617 ) 
+    UID 1001: 0.0000582 ( cpu=0.0000582 ) 
+    UID u0a228: 0.0000463 ( cpu=0.0000336 system_services=0.0000127 ) 
+    UID u0a140: 0.0000415 ( cpu=0.0000118 system_services=0.0000127 sensors=0.0000170 ) 
+    UID u0a209: 0.0000385 ( cpu=0.0000142 system_services=0.0000243 ) 
+    UID 1036: 0.0000351 ( cpu=0.0000351 ) 
+    UID u0a190: 0.0000318 ( cpu=0.0000156 system_services=0.0000162 ) 
+    UID 1002: 0.0000271 ( cpu=0.0000271 ) 
+    UID 1041: 0.0000238 ( cpu=0.0000238 ) 
+    UID 1069: 0.0000171 ( cpu=0.0000171 ) 
+    UID u0ai0: 0.0000139 ( system_services=0.0000139 ) 
+    UID 1066: 0.0000127 ( cpu=0.0000127 ) 
+    UID u0a169: 0.0000120 ( cpu=0.00000622 system_services=0.00000578 ) 
+    UID 1073: 0.0000103 ( cpu=0.0000103 ) 
+    UID u0a174: 0.0000101 ( cpu=0.00000083 system_services=0.00000925 ) 
+    UID u0a184: 0.0000101 ( cpu=0.00000083 system_services=0.00000925 ) 
+    UID u0a77: 0.00000808 ( cpu=0.00000808 ) 
+    UID u0a80: 0.00000667 ( cpu=0.00000667 ) 
+    UID u0a164: 0.00000611 ( cpu=0.00000611 ) 
+    UID u0a118: 0.00000500 ( cpu=0.00000500 ) 
+    UID u0a247: 0.00000373 ( cpu=0.00000142 system_services=0.00000231 ) 
+    UID u0a122: 0.00000225 ( cpu=0.00000225 ) 
+    UID u0a173: 0.00000116 ( system_services=0.00000116 ) 
+    UID 1027: 0.00000083 ( cpu=0.00000083 ) 
+    UID 1047: 0.00000083 ( cpu=0.00000083 ) 
+    UID u0a75: 0.00000083 ( cpu=0.00000083 ) 
+    UID u0a255: 0.00000083 ( cpu=0.00000083 ) 
+    UID u0a211: 0.00000039 ( cpu=0.00000039 ) 
+    UID u0a252: 0.00000039 ( cpu=0.00000039 ) 
+  CPU freqs: 300000 614400 864000 1017600 1305600 1420800 1612800 1804800 300000 652800 902400 1056000 1401600 1536000 1612800 1804800 2016000
+
+  1000:
+    Wake lock *telephony-radio* realtime
+    Foreground for: 20s 378ms 
+    Total running: 20s 378ms 
+    Total cpu time: u=1s 709ms s=1s 982ms 
+    Total cpu time per freq: 0 703 28 32 131 8 71 1912 0 0 0 220 85 38 13 23 433
+    Proc android.hardware.memtrack@1.0-service:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc hvdcp_opti:
+      CPU: 50ms usr + 330ms krn ; 0ms fg
+    Proc vendor.qti.hardware.display.composer-service:
+      CPU: 160ms usr + 220ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 100ms usr + 130ms krn ; 0ms fg
+    Proc android.system.suspend@1.0-service:
+      CPU: 10ms usr + 90ms krn ; 0ms fg
+    Proc android.hardware.sensors@2.0-service.multihal:
+      CPU: 30ms usr + 40ms krn ; 0ms fg
+    Proc dpmd:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 480ms usr + 400ms krn ; 0ms fg
+    Proc system:
+      CPU: 15s 360ms usr + 10s 600ms krn ; 0ms fg
+    Proc android.hardware.health@2.1-service:
+      CPU: 40ms usr + 280ms krn ; 0ms fg
+    Proc android.hardware.power-service:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 20ms usr + 10ms krn ; 0ms fg
+    Proc motorola.hardware.health@2.0-service:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+    Proc android.hardware.keymaster@4.1-service-qti:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc vendor.qti.hardware.display.allocator-service:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+  u0a281:
+    Foreground services: 20s 378ms realtime (0 times) (running)
+    Fg Service for: 20s 378ms 
+    Total running: 20s 378ms 
+    Total cpu time: u=488ms s=128ms 
+    Total cpu time per freq: 0 487 26 0 25 0 0 54 0 0 0 35 0 10 0 0 13
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 246
+All UID cpu time reads since the later of device start or stats reset: 12
+UIDs removed since the later of device start or stats reset: 0
+
+BatteryStats constants:
+    track_cpu_times_by_proc_state=false
+    track_cpu_active_cluster_time=true
+    proc_state_cpu_times_read_delay_ms=5000
+    kernel_uid_readers_throttle_time=1000
+    external_stats_collection_rate_limit_ms=600000
+    battery_level_collection_delay_ms=300000
+    max_history_files=2
+    max_history_buffer_kb=4096
+    battery_charged_delay_ms=900000
+
+On battery measured charge stats (microcoulombs) 
+    Not supported on this device.

@@ -1,0 +1,225 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 3287 mAh
+  Last learned battery capacity: 3287 mAh
+  Min learned battery capacity: 3287 mAh
+  Max learned battery capacity: 3287 mAh
+  Time on battery: 22s 79ms (100.0%) realtime, 22s 79ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 22s 79ms realtime, 22s 79ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-14-08-54-15
+  Screen on: 22s 79ms (100.0%) 0x, Interactive: 22s 79ms (100.0%)
+  Screen brightnesses:
+    dark 22s 79ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 22s 79ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  12s 800ms (57.9%)
+     Cellular Idle time:   2s 825ms (12.8%)
+     Cellular Rx time:     9s 382ms (42.5%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular Battery drain: 0.221mAh
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       poor (-128dBm to -118dBm):  22s 79ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 6s 75ms (27.5%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  20s 433ms (92.5%)
+     WiFi Idle time:   1s 645ms (7.4%)
+     WiFi Rx time:     13ms (0.1%)
+     WiFi Tx time:     8ms (0.0%)
+     WiFi Battery drain: 0.00150mAh
+     Wifi data received: 50.70KB
+     Wifi data sent: 28.35KB
+     Wifi packets received: 94
+     Wifi packets sent: 85
+     Wifi states:
+       sta 22s 79ms (100.0%) 
+     Wifi supplicant states:
+       completed 22s 79ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 22s 79ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   0ms (0.0%)
+     Bluetooth Rx time:     0ms (0.0%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 3287, Computed drain: 0, actual drain: 0
+    Global
+      screen: 0.481 apps: 0.481 duration: 22s 112ms 
+      cpu: 0.397 apps: 0.397
+      video: 0.957 apps: 0.957 duration: 21s 542ms 
+      system_services: 0.0128 apps: 0.0128
+      mobile_radio: 0.0287 apps: 0
+      sensors: 0.00811 apps: 0.00811
+      wifi: 0.00314 apps: 0.00314 duration: 1s 618ms 
+      idle: 0.195 apps: 0 duration: 22s 112ms 
+    UID u0a314: 1.11 ( cpu=0.145 video=0.957 system_services=0.00360 ) 
+    UID 1046: 0.0951 ( cpu=0.0951 ) 
+    UID 0: 0.0393 ( cpu=0.0393 ) 
+    UID 1000: 0.0304 ( cpu=0.0432 reattributed=-0.01275975 ) 
+    UID u0a145: 0.0238 ( cpu=0.0212 system_services=0.00259 ) 
+    UID u0a149: 0.00958 ( cpu=0.00220 sensors=0.00719 wifi=0.000192 ) 
+    UID 2000: 0.00779 ( cpu=0.00779 ) 
+    UID u0a227: 0.00717 ( cpu=0.00638 system_services=0.000439 wifi=0.000343 ) 
+    UID u0a177: 0.00705 ( cpu=0.00495 system_services=0.00190 wifi=0.000192 ) 
+    UID u0a294: 0.00592 ( cpu=0.00590 system_services=0.0000208 ) 
+    UID u0a196: 0.00477 ( cpu=0.00447 system_services=0.000293 ) 
+    UID u0a192: 0.00446 ( cpu=0.00320 system_services=0.00107 wifi=0.000192 ) 
+    UID u0a313: 0.00417 ( cpu=0.00371 system_services=0.000460 ) 
+    UID 1041: 0.00253 ( cpu=0.00253 ) 
+    UID u0a242: 0.00193 ( cpu=0.000846 system_services=0.000167 sensors=0.000921 ) 
+    UID 1040: 0.00193 ( cpu=0.00193 ) 
+    UID u0a156: 0.00189 ( cpu=0.000444 system_services=0.00126 wifi=0.000192 ) 
+    UID u0a134: 0.00182 ( cpu=0.00161 system_services=0.000209 ) 
+    UID 1036: 0.00153 ( cpu=0.00153 ) 
+    UID u0a221: 0.00153 ( cpu=0.000871 system_services=0.000314 wifi=0.000343 ) 
+    UID 1010: 0.00107 ( cpu=0.00107 ) 
+    UID u0a262: 0.00103 ( cpu=0.000925 system_services=0.000105 ) 
+    UID 1069: 0.000686 ( cpu=0.000686 ) 
+    UID u0a146: 0.000597 ( cpu=0.000196 system_services=0.000209 wifi=0.000192 ) 
+    UID 1001: 0.000432 ( cpu=0.000432 ) 
+    UID 1066: 0.000373 ( cpu=0.000373 ) 
+    UID u0a217: 0.000364 ( system_services=0.0000208 wifi=0.000343 ) 
+    UID 1073: 0.000248 ( cpu=0.000248 ) 
+    UID u0a173: 0.000201 ( cpu=0.00000861 wifi=0.000192 ) 
+    UID u0a147: 0.000192 ( wifi=0.000192 ) 
+    UID u0a162: 0.000192 ( wifi=0.000192 ) 
+    UID u0a178: 0.000192 ( wifi=0.000192 ) 
+    UID u0a189: 0.000192 ( wifi=0.000192 ) 
+    UID u0a191: 0.000192 ( wifi=0.000192 ) 
+    UID 2987: 0.000155 ( cpu=0.000155 ) 
+    UID u0a281: 0.0000949 ( cpu=0.0000949 ) 
+    UID u0a265: 0.0000932 ( cpu=0.0000723 system_services=0.0000208 ) 
+    UID 1013: 0.0000878 ( cpu=0.0000878 ) 
+    UID u0a238: 0.0000836 ( system_services=0.0000836 ) 
+    UID u0a234: 0.0000209 ( cpu=0.0000209 ) 
+    UID 1047: 0.0000141 ( cpu=0.0000141 ) 
+    UID 1021: 0.0000101 ( cpu=0.0000101 ) 
+    UID u0a140: 0.0000101 ( cpu=0.0000101 ) 
+    UID u0a195: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a244: 0.00000861 ( cpu=0.00000861 ) 
+    UID 9999: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a133: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a207: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a236: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a263: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a94: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a237: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a260: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a266: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a270: 0.00000000 ( cpu=0.00000000 ) 
+  CPU freqs: 300000 614400 864000 1017600 1305600 1420800 1612800 1804800 300000 652800 902400 1056000 1401600 1536000 1804800 2016000
+
+  1000:
+    Wake lock NetworkStats realtime
+    Wake lock *telephony-radio* realtime
+    Foreground for: 22s 79ms 
+    Total running: 22s 79ms 
+    Total cpu time: u=2s 248ms s=1s 813ms 
+    Total cpu time per freq: 0 1797 107 48 691 108 309 717 0 0 0 51 13 5 34 126
+    Proc com.sonymobile.smartnetworkengine:
+      CPU: 160ms usr + 60ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc chg-pwr-service:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc charge_service:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc vendor.qti.hardware.vibrator.service:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.sonymobile.audioutil:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc android.system.suspend@1.0-service:
+      CPU: 20ms usr + 10ms krn ; 0ms fg
+    Proc android.hardware.sensors@2.0-service.multihal:
+      CPU: 140ms usr + 100ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 30ms usr + 80ms krn ; 0ms fg
+    Proc com.sonyericsson.devicemonitor:
+      CPU: 30ms usr + 10ms krn ; 0ms fg
+    Proc com.sonymobile.smartcharger:
+      CPU: 40ms usr + 20ms krn ; 0ms fg
+    Proc android.hardware.graphics.composer@2.4-service:
+      CPU: 50ms usr + 50ms krn ; 0ms fg
+    Proc system:
+      CPU: 720ms usr + 580ms krn ; 0ms fg
+    Proc android.hardware.health@2.1-service:
+      CPU: 20ms usr + 70ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc vendor.qti.hardware.display.allocator-service:
+      CPU: 30ms usr + 60ms krn ; 0ms fg
+    Apk com.sonymobile.smartcharger:
+      Service com.sonymobile.smartcharger.SmartChargeService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.sonymobile.smartcharger.ExtControlService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.sonymobile.smartcharger.SmartChargeNotifService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  u0a314:
+    Video: 21s 542ms realtime (1 times)
+    Foreground services: 22s 79ms realtime (0 times) (running)
+    Fg Service for: 22s 79ms 
+    Total running: 22s 79ms 
+    Total cpu time: u=8s 200ms s=2s 508ms 
+    Total cpu time per freq: 0 2701 291 223 1739 291 750 1181 0 0 0 32 84 10 275 2817
+    Proc com.steadypath.app:
+      CPU: 3s 600ms usr + 1s 180ms krn ; 0ms fg
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 1333
+All UID cpu time reads since the later of device start or stats reset: 8
+UIDs removed since the later of device start or stats reset: 0
+
+BatteryStats constants:
+    track_cpu_times_by_proc_state=false
+    track_cpu_active_cluster_time=true
+    proc_state_cpu_times_read_delay_ms=5000
+    kernel_uid_readers_throttle_time=1000
+    external_stats_collection_rate_limit_ms=600000
+    battery_level_collection_delay_ms=300000
+    max_history_files=32
+    max_history_buffer_kb=128
+    battery_charged_delay_ms=900000
+
+On battery measured charge stats (microcoulombs) 
+    Not supported on this device.

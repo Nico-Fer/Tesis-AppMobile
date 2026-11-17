@@ -1,0 +1,2 @@
+dispositivo,soc,android,modelo,delegate,muestras,media_ms,p50_ms,p90_ms,min_ms,max_ms,fps_p50,fps_efectivo_p50,fps_efectivo_min,fps_efectivo_max
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20,117.8,118.1,120.4,112.3,120.8,8.5,3.7,3.5,3.9

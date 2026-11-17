@@ -1,0 +1,193 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 3287 mAh
+  Last learned battery capacity: 3287 mAh
+  Min learned battery capacity: 3287 mAh
+  Max learned battery capacity: 3287 mAh
+  Time on battery: 31s 271ms (100.0%) realtime, 31s 271ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 31s 271ms realtime, 31s 271ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-14-08-54-39
+  Screen on: 31s 271ms (100.0%) 0x, Interactive: 31s 271ms (100.0%)
+  Screen brightnesses:
+    dark 31s 271ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 31s 271ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  31s 63ms (99.3%)
+     Cellular Idle time:   2s 89ms (6.7%)
+     Cellular Rx time:     0ms (0.0%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular Battery drain: 0.000128mAh
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       poor (-128dBm to -118dBm):  31s 271ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 18s 303ms (58.5%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  31s 292ms (100.0%)
+     WiFi Idle time:   0ms (0.0%)
+     WiFi Rx time:     0ms (0.0%)
+     WiFi Tx time:     0ms (0.0%)
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states:
+       sta 31s 271ms (100.0%) 
+     Wifi supplicant states:
+       completed 31s 271ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 31s 271ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   0ms (0.0%)
+     Bluetooth Rx time:     0ms (0.0%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 3287, Computed drain: 0, actual drain: 0
+    Global
+      screen: 0.681 apps: 0.681 duration: 31s 296ms 
+      cpu: 0.460 apps: 0.460
+      video: 1.36 apps: 1.36 duration: 30s 698ms 
+      system_services: 0.0110 apps: 0.0110
+      mobile_radio: 0.0407 apps: 0
+      sensors: 0.0115 apps: 0.0115
+      idle: 0.276 apps: 0 duration: 31s 296ms 
+    UID u0a314: 1.58 ( cpu=0.207 video=1.36 system_services=0.00558 ) 
+    UID 1046: 0.117 ( cpu=0.117 ) 
+    UID 0: 0.0399 ( cpu=0.0399 ) 
+    UID 1000: 0.0372 ( cpu=0.0482 reattributed=-0.01100666 ) 
+    UID u0a149: 0.0134 ( cpu=0.00326 sensors=0.0102 ) 
+    UID u0a294: 0.00937 ( cpu=0.00937 ) 
+    UID u0a313: 0.00723 ( cpu=0.00652 system_services=0.000710 ) 
+    UID 2000: 0.00650 ( cpu=0.00650 ) 
+    UID 1041: 0.00504 ( cpu=0.00504 ) 
+    UID u0a196: 0.00467 ( cpu=0.00431 system_services=0.000355 ) 
+    UID u0a192: 0.00276 ( cpu=0.00149 system_services=0.00127 ) 
+    UID u0a242: 0.00272 ( cpu=0.00119 system_services=0.000228 sensors=0.00130 ) 
+    UID 1040: 0.00254 ( cpu=0.00254 ) 
+    UID u0a156: 0.00245 ( cpu=0.000672 system_services=0.00178 ) 
+    UID u0a262: 0.00167 ( cpu=0.00123 system_services=0.000431 ) 
+    UID 1010: 0.00138 ( cpu=0.00138 ) 
+    UID 1036: 0.00120 ( cpu=0.00120 ) 
+    UID u0a221: 0.000493 ( cpu=0.000112 system_services=0.000380 ) 
+    UID 1001: 0.000489 ( cpu=0.000489 ) 
+    UID u0a134: 0.000409 ( cpu=0.000333 system_services=0.0000761 ) 
+    UID 1069: 0.000344 ( cpu=0.000344 ) 
+    UID u0a227: 0.000248 ( cpu=0.000222 system_services=0.0000253 ) 
+    UID 1066: 0.000235 ( cpu=0.000235 ) 
+    UID u0a145: 0.000211 ( cpu=0.000186 system_services=0.0000253 ) 
+    UID 2987: 0.000180 ( cpu=0.000180 ) 
+    UID u0a178: 0.000163 ( cpu=0.000138 system_services=0.0000253 ) 
+    UID u0a238: 0.000124 ( cpu=0.0000226 system_services=0.000101 ) 
+    UID u0a191: 0.000121 ( cpu=0.000121 ) 
+    UID 1013: 0.000119 ( cpu=0.000119 ) 
+    UID 1073: 0.000116 ( cpu=0.000116 ) 
+    UID u0a281: 0.000115 ( cpu=0.000115 ) 
+    UID u0a217: 0.0000353 ( cpu=0.0000101 system_services=0.0000253 ) 
+    UID u0a162: 0.0000187 ( cpu=0.0000187 ) 
+    UID u0a98: 0.0000141 ( cpu=0.0000141 ) 
+    UID u0a299: 0.0000123 ( cpu=0.0000123 ) 
+    UID u0a146: 0.0000112 ( cpu=0.0000112 ) 
+    UID u0a260: 0.0000101 ( cpu=0.0000101 ) 
+    UID u0a177: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a195: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a239: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a270: 0.00000861 ( cpu=0.00000861 ) 
+    UID 1021: 0.00000861 ( cpu=0.00000861 ) 
+    UID 1027: 0.00000861 ( cpu=0.00000861 ) 
+    UID 1047: 0.00000861 ( cpu=0.00000861 ) 
+    UID 9999: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a203: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a259: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a274: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a310: 0.00000861 ( cpu=0.00000861 ) 
+    UID u0a133: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a205: 0.00000000 ( cpu=0.00000000 ) 
+    UID u0a263: 0.00000000 ( cpu=0.00000000 ) 
+  CPU freqs: 300000 614400 864000 1017600 1305600 1420800 1612800 1804800 300000 652800 902400 1056000 1401600 1536000 1804800 2016000
+
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock com.sonyericsson.devicemonitor:wakelock realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock com.sonyericsson.devicemonitor:periodic_wakelock realtime
+    Foreground for: 31s 271ms 
+    Total running: 31s 271ms 
+    Total cpu time: u=2s 567ms s=2s 436ms 
+    Total cpu time per freq: 0 3058 180 77 795 151 199 353 0 0 0 22 29 1 30 57
+    Apk com.sonyericsson.devicemonitor:
+      Wakeup alarm *walarm*:com.sonyericsson.periodicstats.ReportToIDD: 0 times
+      Service com.sonyericsson.devicemonitor.DeviceMonitorService:
+        Created for: 31s 250ms uptime
+        Starts: 1, launches: 0
+    Apk com.sonymobile.smartcharger:
+      Service com.sonymobile.smartcharger.SmartChargeService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.sonymobile.smartcharger.ExtControlService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.sonymobile.smartcharger.SmartChargeNotifService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  u0a314:
+    Video: 30s 698ms realtime (1 times)
+    Foreground services: 31s 271ms realtime (0 times) (running)
+    Fg Service for: 31s 271ms 
+    Total running: 31s 271ms 
+    Total cpu time: u=11s 655ms s=3s 514ms 
+    Total cpu time per freq: 0 4528 273 242 1903 598 1128 1321 0 0 0 73 162 1 351 4221
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 1333
+All UID cpu time reads since the later of device start or stats reset: 8
+UIDs removed since the later of device start or stats reset: 0
+
+BatteryStats constants:
+    track_cpu_times_by_proc_state=false
+    track_cpu_active_cluster_time=true
+    proc_state_cpu_times_read_delay_ms=5000
+    kernel_uid_readers_throttle_time=1000
+    external_stats_collection_rate_limit_ms=600000
+    battery_level_collection_delay_ms=300000
+    max_history_files=32
+    max_history_buffer_kb=128
+    battery_charged_delay_ms=900000
+
+On battery measured charge stats (microcoulombs) 
+    Not supported on this device.

@@ -1,0 +1,25 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0001_elevacion_lateral,117.6,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0002_sentadilla,117.3,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0002_sentadilla,121.0,8.3,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,117.4,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,115.4,8.7,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0005_talones,116.9,8.6,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,117.9,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,120.1,8.3,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,120.0,8.3,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla,116.8,8.6,4.4
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla_heldout,116.4,8.6,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,app_0006_ext_rodilla_heldout,118.2,8.5,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,117.4,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,117.7,8.5,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e01_cam3,117.9,8.5,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,117.6,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,117.9,8.5,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s14_e05_cam0,118.6,8.4,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,116.7,8.6,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,121.3,8.2,4.5
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s4_e13_cam2,121.3,8.2,4.4
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,117.6,8.5,
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,119.2,8.4,4.4
+OnePlus CPH2465,SM6375 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261112,uco_s11_e09_cam4,117.7,8.5,4.4

@@ -1,0 +1,19 @@
+clave,valor
+fabricante,samsung
+modelo,SM-A366E
+codename,a36xq
+soc,SM6475 (QTI)
+gpu,Adreno (TM) 710
+android,15
+api,35
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2400
+ram_mb,7280
+fingerprint,samsung/a36xqnsxx/a36xq:15/AP3A.240905.015.A2/A366EXXS4AYH9_OWO4AYH9:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,CPU_XNNPACK
+init_modelo_ms,63.5
+build_type,debug
+fecha,20261013-123056

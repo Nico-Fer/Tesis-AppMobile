@@ -1,0 +1,19 @@
+clave,valor
+fabricante,motorola
+modelo,moto g34 5G
+codename,fogos
+soc,SM6375 (QTI)
+gpu,Adreno (TM) 619
+android,14
+api,34
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2208
+ram_mb,3472
+fingerprint,motorola/fogos_gen/fogos:14/U1UGS34.23-110-23-4/38326-64efdd:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2269.4
+build_type,debug
+fecha,20261012-103805

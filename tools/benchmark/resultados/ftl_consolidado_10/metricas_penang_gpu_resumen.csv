@@ -1,0 +1,2 @@
+dispositivo,soc,android,modelo,delegate,muestras,media_ms,p50_ms,p90_ms,min_ms,max_ms,fps_p50,fps_efectivo_p50,fps_efectivo_min,fps_efectivo_max
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,16,139.6,140.6,142.7,132.6,144.0,7.1,3.2,3.1,3.4

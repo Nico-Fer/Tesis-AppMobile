@@ -1,0 +1,155 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 4000 mAh
+  Min learned battery capacity: 4158 mAh
+  Max learned battery capacity: 4158 mAh
+  Time on battery: 13s 807ms (99.8%) realtime, 13s 807ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 13s 837ms realtime, 13s 837ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-12-11-22-37
+  Screen on: 13s 807ms (100.0%) 0x, Interactive: 13s 807ms (100.0%)
+  Screen brightnesses:
+    dark 13s 807ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 13s 807ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  11s 800ms (85.5%)
+     Cellular Idle time:   2s 503ms (18.1%)
+     Cellular Rx time:     216ms (1.6%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular Battery drain: 0.117mAh
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       poor (-128dBm to -118dBm):  13s 807ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 0ms (0.0%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  13s 744ms (99.5%)
+     WiFi Idle time:   48ms (0.3%)
+     WiFi Rx time:     16ms (0.1%)
+     WiFi Tx time:     1ms (0.0%)
+     WiFi Battery drain: 0.00167mAh
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states:
+       sta 13s 807ms (100.0%) 
+     Wifi supplicant states:
+       completed 13s 807ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         great (greater than -55dBm): 13s 807ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   1s 575ms (11.4%)
+     Bluetooth Rx time:     233ms (1.7%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 4000, Computed drain: 1.62, actual drain: 0
+    Screen: 0.556 Excluded from smearing
+    Uid u0a273: 0.553 ( cpu=0.459 ) Including smearing: 0.735 ( proportional=0.182 )
+    Uid 1000: 0.125 ( cpu=0.0733 ) Excluded from smearing
+    Uid 1046: 0.110 ( cpu=0.110 ) Excluded from smearing
+    Uid 0: 0.0826 ( cpu=0.0826 ) Excluded from smearing
+    Idle: 0.0422 Excluded from smearing
+    Uid 1041: 0.0280 ( cpu=0.0280 ) Excluded from smearing
+    Uid u0a180: 0.0226 ( cpu=0.0226 ) Excluded from smearing
+    Uid u0a162: 0.0181 ( cpu=0.0181 ) Including smearing: 0.0241 ( proportional=0.00596 )
+    Uid u0a253: 0.0158 ( cpu=0.0158 ) Including smearing: 0.0210 ( proportional=0.00522 )
+    Uid 1013: 0.00775 ( cpu=0.00775 ) Excluded from smearing
+    Uid u0a199: 0.00709 ( cpu=0.00709 ) Including smearing: 0.00942 ( proportional=0.00234 )
+    Uid 2000: 0.00695 ( cpu=0.00695 ) Excluded from smearing
+    Uid u0a174: 0.00646 ( cpu=0.00646 ) Including smearing: 0.00859 ( proportional=0.00213 )
+    Uid u0a272: 0.00442 ( cpu=0.00442 ) Including smearing: 0.00588 ( proportional=0.00146 )
+    Wifi: 0.00425 ( cpu=0.00258 wifi=0.00167 ) Including smearing: 0.00565 ( proportional=0.00140 )
+    Uid u0a192: 0.00425 ( cpu=0.00425 ) Including smearing: 0.00565 ( proportional=0.00140 )
+    Uid 1040: 0.00418 ( cpu=0.00418 ) Excluded from smearing
+    Cell standby: 0.00384 ( radio=0.00384 ) Excluded from smearing
+    Uid u0a242: 0.00281 ( cpu=0.00281 ) Excluded from smearing
+    Uid u0a157: 0.00276 ( cpu=0.00276 ) Including smearing: 0.00367 ( proportional=0.000910 )
+    Uid 1036: 0.00272 ( cpu=0.00272 ) Excluded from smearing
+    Uid 1001: 0.00203 ( cpu=0.00203 ) Excluded from smearing
+    Uid u0a186: 0.00137 ( cpu=0.00137 ) Including smearing: 0.00182 ( proportional=0.000451 )
+    Uid 1069: 0.00119 ( cpu=0.00119 ) Excluded from smearing
+    Uid 1066: 0.00100 ( cpu=0.00100 ) Excluded from smearing
+    Bluetooth: 0.000886 ( cpu=0.000886 ) Including smearing: 0.00118 ( proportional=0.000292 )
+    Uid u0a160: 0.000702 ( cpu=0.000702 ) Including smearing: 0.000933 ( proportional=0.000231 )
+    Uid u0a249: 0.000248 ( cpu=0.000248 ) Including smearing: 0.000330 ( proportional=0.0000818 )
+    Uid u0a252: 0.000248 ( cpu=0.000248 ) Including smearing: 0.000330 ( proportional=0.0000818 )
+    Uid u0a234: 0.000248 ( cpu=0.000248 ) Including smearing: 0.000329 ( proportional=0.0000816 )
+    Uid u0a104: 0.000202 ( cpu=0.000202 ) Including smearing: 0.000268 ( proportional=0.0000664 )
+    Uid u0a214: 0.000200 ( cpu=0.000200 ) Including smearing: 0.000266 ( proportional=0.0000661 )
+    Uid 1073: 0.000185 ( cpu=0.000185 ) Excluded from smearing
+    Uid 1027: 0.000101 ( cpu=0.000101 ) Excluded from smearing
+    Uid u0a172: 0.0000707 ( cpu=0.0000707 ) Including smearing: 0.0000940 ( proportional=0.0000233 )
+    Uid 1064: 0.0000489 ( cpu=0.0000489 ) Excluded from smearing
+    Uid u0a217: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000651 ( proportional=0.0000161 )
+    Uid u0a230: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000651 ( proportional=0.0000161 )
+    Uid u0a238: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000651 ( proportional=0.0000161 )
+    Uid u0a247: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000651 ( proportional=0.0000161 )
+    Uid 1047: 0.0000288 ( cpu=0.0000288 ) Excluded from smearing
+    Uid 9999: 0.00000056 ( cpu=0.00000056 ) Excluded from smearing
+
+  Resource Power Manager Stats
+    ADSP.Sleep: 5s 613ms realtime (474 times)
+    Display.1080x2340@90: 14s 525ms realtime (0 times)
+    ADSP_ISLAND.Sleep: 4s 239ms realtime (214 times)
+    MPSS.Sleep: 11s 767ms realtime (98 times)
+    CDSP.Sleep: 14s 525ms realtime (0 times)
+
+  CPU freqs: 300000 576000 614400 864000 902400 1363200 1516800 1651200 1804800 652800 940800 1094400 1478400 1728000 1900800 2092800 2208000 806400 1094400 1401600 1766400 1996800 2188800 2304000 2400000
+
+  1000:
+    Wake lock AudioMix realtime
+    Wake lock *vibrator* realtime
+    Wake lock *telephony-radio* realtime
+    Audio: 2s 485ms realtime (0 times)
+    Foreground for: 13s 807ms 
+    Total running: 13s 807ms 
+    Total cpu time: u=897ms s=877ms 
+    Total cpu time per freq: 0 93 1 82 16 199 78 80 926 15 5 17 10 0 0 0 3 1 0 0 5 0 1 11 213
+  u0a273:
+    Video: 13s 452ms realtime (1 times)
+    Foreground services: 13s 807ms realtime (0 times) (running)
+    Fg Service for: 13s 807ms 
+    Total running: 13s 807ms 
+    Total cpu time: u=8s 984ms s=1s 16ms 
+    Total cpu time per freq: 0 222 17 414 57 1360 641 171 6838 0 0 0 0 0 0 0 0 1 0 1 17 5 89 65 144
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 18
+All UID cpu time reads since the later of device start or stats reset: 12
+UIDs removed since the later of device start or stats reset: 0

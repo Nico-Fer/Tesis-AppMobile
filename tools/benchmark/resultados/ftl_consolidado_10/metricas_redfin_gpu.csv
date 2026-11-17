@@ -1,0 +1,17 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0001_elevacion_lateral,120.7,8.3,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0002_sentadilla,120.5,8.3,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0005_talones,113.6,8.8,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0005_talones,118.9,8.4,3.4
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla,120.1,8.3,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla,115.9,8.6,3.5
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla,123.9,8.1,3.5
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla_heldout,112.8,8.9,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e01_cam3,120.3,8.3,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e01_cam3,116.3,8.6,3.5
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s14_e05_cam0,117.7,8.5,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s14_e05_cam0,114.4,8.7,3.4
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e13_cam2,111.6,9.0,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e13_cam2,123.1,8.1,3.4
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s11_e09_cam4,119.7,8.4,
+Google Pixel 5,redfin/redfin,11,yolov8n-pose_int8.tflite,GPU,20261012,uco_s11_e09_cam4,116.0,8.6,3.4

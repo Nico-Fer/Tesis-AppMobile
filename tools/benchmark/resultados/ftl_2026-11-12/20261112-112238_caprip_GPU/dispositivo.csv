@@ -1,0 +1,39 @@
+clave,valor
+fabricante,motorola
+modelo,moto g(30)
+codename,caprip
+soc,SM6115 (QTI)
+gpu,Adreno (TM) 610
+android,12
+api,31
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2016
+ram_mb,3722
+fingerprint,motorola/caprip_retailn/caprip:12/S0RCS32.41-10-19-14/ab266e-36c3f31:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,4238.8
+build_type,debug
+fecha,20261112-112238
+cargador_inicio,usb
+uid_batterystats,u0a281
+bateria_capacidad_estimada_mah,5029
+pss_antes_modelo_mb,119.7
+java_heap_antes_modelo_mb,10.6
+native_heap_antes_modelo_mb,8.5
+graficos_antes_modelo_mb,0.2
+rss_antes_modelo_mb,299.1
+vmhwm_antes_modelo_mb,299.1
+pss_con_modelo_mb,202.5
+java_heap_con_modelo_mb,11.0
+native_heap_con_modelo_mb,39.1
+graficos_con_modelo_mb,0.4
+rss_con_modelo_mb,381.5
+vmhwm_con_modelo_mb,381.5
+reposo_s,20.1
+reposo_cpu_pct,2.9898345624875424
+reposo_mah,6.88E-4
+reposo_mah_por_min,0.002057006178991429
+reposo_rss_max_mb,382.4609375

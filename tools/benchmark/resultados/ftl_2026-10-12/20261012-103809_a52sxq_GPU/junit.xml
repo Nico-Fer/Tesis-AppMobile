@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuites>
+  <testsuite errors="0" failures="0" hostname="localhost" name="" skipped="0" tests="10" time="243.018" timestamp="2026-10-12T10:38:05">
+    <properties><property name="device" value="ftlGalaxyA52s"/><property name="flavor" value=":app"/><property name="project" value="aws"/></properties>
+    <testcase classname="com.example.tesisrehabilitacionmobileapp.ExampleInstrumentedTest" name="useAppContext" time="0.0"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[app_0001_elevacion_lateral_v1]" time="15.001"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[app_0002_sentadilla_v1]" time="21.002"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[app_0005_talones_v1]" time="32.002"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[app_0006_ext_rodilla_v1]" time="38.003"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[app_0006_ext_rodilla_heldout_v1]" time="20.001"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[uco_s4_e01_cam3_v1]" time="29.003"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[uco_s14_e05_cam0_v1]" time="29.002"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[uco_s4_e13_cam2_v1]" time="30.002"/>
+    <testcase classname="com.steadypath.app.benchmark.PoseBenchmarkTest" name="benchmark[uco_s11_e09_cam4_v1]" time="29.002"/>
+  </testsuite>
+</testsuites>

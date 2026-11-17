@@ -1,0 +1,17 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0001_elevacion_lateral,135.7,7.4,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0002_sentadilla,136.9,7.3,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0005_talones,139.8,7.2,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0005_talones,133.3,7.5,3.2
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,144.0,6.9,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,132.6,7.5,3.4
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,140.9,7.1,3.3
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla_heldout,139.9,7.1,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e01_cam3,141.1,7.1,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e01_cam3,140.1,7.1,3.2
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s14_e05_cam0,141.5,7.1,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s14_e05_cam0,140.8,7.1,3.3
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e13_cam2,140.5,7.1,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e13_cam2,143.8,7.0,3.1
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s11_e09_cam4,141.3,7.1,
+motorola moto g53 5G,SM4350 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s11_e09_cam4,140.7,7.1,3.2

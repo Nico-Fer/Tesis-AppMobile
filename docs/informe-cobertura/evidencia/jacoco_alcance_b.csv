@@ -1,0 +1,45 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+app,com.steadypath.app.domain.comparison,AngleFrame,0,57,0,4,0,9,0,7,0,5
+app,com.steadypath.app.domain.comparison,ReferenceRepSelectorKt,0,135,0,16,0,16,0,10,0,2
+app,com.steadypath.app.domain.comparison,AdaptiveRestRepetitionSegmenter.Phase,0,25,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,MovementStatus,0,25,0,0,0,3,0,1,0,1
+app,com.steadypath.app.domain.comparison,RepShapeGate,4,320,1,29,0,39,1,20,0,6
+app,com.steadypath.app.domain.comparison,RecordingSegmenterListener.DefaultImpls,0,1,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,ReferenceRepSelector.Selection,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.domain.comparison,ReferenceMetadata,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.domain.comparison,ExerciseReference,0,46,0,4,0,8,0,7,0,5
+app,com.steadypath.app.domain.comparison,CorrectionHint,17,36,0,0,1,7,2,6,2,6
+app,com.steadypath.app.domain.comparison,MovementPatternCatalog,10,445,0,8,1,71,1,12,1,8
+app,com.steadypath.app.domain.comparison,ComparisonResult,7,90,0,0,0,10,1,9,1,9
+app,com.steadypath.app.domain.comparison,RepPhase,0,25,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,RepRejectReason,0,25,0,0,0,3,0,1,0,1
+app,com.steadypath.app.domain.comparison,ScoringConfig,0,15,0,0,0,3,0,3,0,3
+app,com.steadypath.app.domain.comparison,AngleDefinition,0,95,0,10,0,12,0,12,0,7
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter,0,551,3,57,0,97,3,36,0,9
+app,com.steadypath.app.domain.comparison,ReferenceRepSelector,3,416,2,46,1,29,2,25,0,3
+app,com.steadypath.app.domain.comparison,AdaptiveRestRepetitionSegmenter,2,1303,3,130,0,206,3,80,0,16
+app,com.steadypath.app.domain.comparison,ReferenceAlignment.DriverProfile,0,15,0,0,0,1,0,3,0,3
+app,com.steadypath.app.domain.comparison,ExerciseDefinition,0,85,0,10,0,12,0,10,0,5
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter.Phase,0,19,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,ErrorDirection,0,31,0,0,0,4,0,1,0,1
+app,com.steadypath.app.domain.comparison,ReferenceAlignment,0,343,2,42,0,56,2,25,0,5
+app,com.steadypath.app.domain.comparison,ErrorAttributor,1,520,4,54,0,80,0,10,0,6
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter.Companion,0,54,0,6,0,11,0,4,0,1
+app,com.steadypath.app.domain.comparison,DefaultAngleExtractor,1,204,4,26,0,29,4,14,0,3
+app,com.steadypath.app.domain.comparison,MovementPattern,6,124,0,14,0,19,2,13,2,6
+app,com.steadypath.app.domain.comparison,ReferenceProvenance,0,32,0,2,0,4,0,3,0,2
+app,com.steadypath.app.domain.comparison,RepMetricsSink.Companion,0,6,0,0,0,1,0,3,0,3
+app,com.steadypath.app.data.comparison,ScoringDto,0,15,0,0,0,3,0,3,0,3
+app,com.steadypath.app.data.comparison,DtwMovementComparator,0,79,0,0,0,12,0,4,0,4
+app,com.steadypath.app.data.comparison,ReferenceFileDto,0,83,0,0,0,9,0,9,0,9
+app,com.steadypath.app.data.comparison,ReferenceJsonParser,14,329,2,26,1,47,2,17,0,5
+app,com.steadypath.app.data.comparison,MetadataDto,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.data.comparison,ReferenceJsonWriter,0,136,0,2,0,27,0,4,0,3
+app,com.steadypath.app.data.comparison,AngleDefinitionDto,13,33,0,0,1,6,1,6,1,6
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.1.new FlowCollector() {...},0,111,0,12,0,18,0,7,0,1
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.1.new Function2() {...},2,191,2,10,1,45,2,5,0,1
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.new Function2() {...},2,380,2,22,0,39,2,12,0,2
+app,com.steadypath.app.domain.comparison.dtw,ShapeSimilarity,1,405,1,33,0,54,1,22,0,6
+app,com.steadypath.app.domain.comparison.dtw,DtwResult,0,42,0,2,0,6,0,7,0,6
+app,com.steadypath.app.domain.comparison.dtw,Dtw,2,724,4,92,0,98,4,52,0,8
+app,com.steadypath.app.domain.comparison.dtw,WrappedAngularDistance,0,157,0,26,0,19,0,15,0,2

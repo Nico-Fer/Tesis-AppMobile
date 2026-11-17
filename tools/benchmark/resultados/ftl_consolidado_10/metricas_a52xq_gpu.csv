@@ -1,0 +1,21 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0001_elevacion_lateral,116.5,8.6,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0002_sentadilla,118.1,8.5,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0002_sentadilla,117.8,8.5,3.9
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0005_talones,113.7,8.8,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0005_talones,118.1,8.5,3.7
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0005_talones,119.0,8.4,3.9
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,120.7,8.3,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,119.5,8.4,3.7
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla,116.4,8.6,3.8
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla_heldout,117.3,8.5,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,app_0006_ext_rodilla_heldout,112.3,8.9,3.9
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e01_cam3,119.0,8.4,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e01_cam3,119.1,8.4,3.7
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s14_e05_cam0,118.8,8.4,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s14_e05_cam0,120.8,8.3,3.7
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e13_cam2,116.8,8.6,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s4_e13_cam2,120.4,8.3,3.5
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s11_e09_cam4,114.7,8.7,
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s11_e09_cam4,119.6,8.4,3.7
+samsung SM-A526U,SM7225 (QTI),14,yolov8n-pose_int8.tflite,GPU,20261013,uco_s11_e09_cam4,117.6,8.5,3.7

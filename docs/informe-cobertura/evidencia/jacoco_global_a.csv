@@ -1,0 +1,1036 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+app,com.steadypath.app.presentation.screens.patient,PatientNotificationSettingsViewModel.onMensajesDelProfesionalChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileScreenKt.EditPatientProfileScreen.2.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientNotificationSettingsViewModel.onRecordatorioRutinaDiariaChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.PatientProfileScreen.4.new Function2() {...},11,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationScreenKt.PatientRegistrationScreen.3.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel,157,0,2,0,27,0,11,0,10,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel.NavigationEvent.GoToLogin,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel.signOut.new Function2() {...},63,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientNotificationSettingsScreenKt,315,0,6,0,38,0,5,0,2,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.PatientProfileScreen.2.new Function2() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel.NavigationEvent.NeedsConfirmation,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationScreenKt.PatientRegistrationScreen.2.1.new FlowCollector() {...},32,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel.NavigationEvent.SignedOut,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientNotificationSettingsViewModel,83,0,0,0,11,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileScreenKt.ConfirmSaveDialog.new Function2() {...},247,0,0,0,39,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileScreenKt,842,0,16,0,88,0,24,0,16,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationScreenKt,1154,0,18,0,122,0,20,0,11,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel.isFormValid.new Function5() {...},42,0,12,0,2,0,7,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.PatientProfileScreen.2.1.new FlowCollector() {...},10,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileViewModel.loadProfile.new Function2() {...},40,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileScreenKt.ProfileSavedDialog.new Function2() {...},164,0,0,0,31,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileViewModel,100,0,0,0,17,0,10,0,10,0
+app,com.steadypath.app.presentation.screens.patient,PatientNotificationSettingsViewModel.onResumenSemanalChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel,155,0,0,0,23,0,15,0,15,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt,1763,0,52,0,180,0,43,0,17,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationScreenKt.PatientRegistrationScreen.2.new Function2() {...},24,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.UnlinkProfessionalDialog.new Function2() {...},343,0,2,0,50,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.PatientProfileScreen.1.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel.NavigationEvent.RegistrationCompleted,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.patient,EditPatientProfileViewModel.saveProfile.new Function2() {...},95,0,6,0,11,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel.unlinkProfessional.new Function2() {...},69,0,4,0,12,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileScreenKt.PatientProfileScreen.3.new Function2() {...},11,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel.special..inlined.map.1.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.patient,PatientProfileViewModel.loadProfile.new Function2() {...},48,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.patient,PatientRegistrationViewModel.register.new Function2() {...},146,0,8,0,19,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel.1.new FlowCollector() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel.1.new Function4() {...},20,0,6,0,2,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,ExerciseCountdownScreenKt.ExerciseCountdownScreen.1.new Function2() {...},37,0,2,0,6,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,GuiaDeEncuadre.Problema,0,39,0,0,0,4,0,3,0,3
+app,com.steadypath.app.presentation.screens.calibration,ExerciseCountdownScreenKt,401,0,4,0,48,0,6,0,4,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt.PrepareSpaceScreen.4.new Function2() {...},46,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt.PrepareSpaceScreen.2.new Function2() {...},10,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt,1940,0,68,0,183,0,65,0,31,0
+app,com.steadypath.app.presentation.screens.calibration,GuiaDeEncuadre,21,87,0,18,1,22,1,12,1,3
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel.new Function2() {...},33,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,FramingDiagnostics,63,0,12,0,10,0,8,0,2,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt.PrepareSpaceScreen.3.new Function2() {...},35,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt.PrepareSpaceScreen.new Function2() {...},32,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel.sensorListener.new SensorEventListener() {...},173,0,12,0,26,0,9,0,3,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel,312,0,22,0,62,0,23,0,12,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceScreenKt.PrepareSpaceScreen.1.new Function2() {...},7,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.calibration,PrepareSpaceViewModel.Companion,69,0,16,0,6,0,10,0,2,0
+app,com.steadypath.app.presentation.session,RoutineSessionTracker.PendingResult,6,33,0,0,0,6,2,4,2,4
+app,com.steadypath.app.presentation.session,RoutineSessionTracker,13,212,3,9,1,33,4,18,1,15
+app,com.steadypath.app.domain.comparison,ExerciseDefinition,0,85,0,10,0,12,0,10,0,5
+app,com.steadypath.app.domain.comparison,ReferenceAlignment,0,343,2,42,0,56,2,25,0,5
+app,com.steadypath.app.domain.comparison,RepRejectReason,0,25,0,0,0,3,0,1,0,1
+app,com.steadypath.app.domain.comparison,ErrorAttributor,1,520,4,54,0,80,0,10,0,6
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter.Companion,0,54,0,6,0,11,0,4,0,1
+app,com.steadypath.app.domain.comparison,ReferenceAlignment.DriverProfile,0,15,0,0,0,1,0,3,0,3
+app,com.steadypath.app.domain.comparison,ExerciseReference,0,46,0,4,0,8,0,7,0,5
+app,com.steadypath.app.domain.comparison,ScoringConfig,0,15,0,0,0,3,0,3,0,3
+app,com.steadypath.app.domain.comparison,ReferenceRepSelector.Selection,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.domain.comparison,CorrectionHint,17,36,0,0,1,7,2,6,2,6
+app,com.steadypath.app.domain.comparison,AngleDefinition,0,95,0,10,0,12,0,12,0,7
+app,com.steadypath.app.domain.comparison,ReferenceRepSelector,3,416,2,46,1,29,2,25,0,3
+app,com.steadypath.app.domain.comparison,ReferenceProvenance,0,32,0,2,0,4,0,3,0,2
+app,com.steadypath.app.domain.comparison,AdaptiveRestRepetitionSegmenter.Phase,0,25,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,MovementStatus,0,25,0,0,0,3,0,1,0,1
+app,com.steadypath.app.domain.comparison,AdaptiveRestRepetitionSegmenter,2,1303,3,130,0,206,3,80,0,16
+app,com.steadypath.app.domain.comparison,ReferenceMetadata,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.domain.comparison,MovementPatternCatalog,10,445,0,8,1,71,1,12,1,8
+app,com.steadypath.app.domain.comparison,RepPhase,0,25,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter.Phase,0,19,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.comparison,RepShapeGate,4,320,1,29,0,39,1,20,0,6
+app,com.steadypath.app.domain.comparison,ComparisonResult,7,90,0,0,0,10,1,9,1,9
+app,com.steadypath.app.domain.comparison,MovementPattern,6,124,0,14,0,19,2,13,2,6
+app,com.steadypath.app.domain.comparison,RepMetricsSink.Companion,0,6,0,0,0,1,0,3,0,3
+app,com.steadypath.app.domain.comparison,AngleFrame,0,57,0,4,0,9,0,7,0,5
+app,com.steadypath.app.domain.comparison,PeakValleyRepetitionSegmenter,0,551,3,57,0,97,3,36,0,9
+app,com.steadypath.app.domain.comparison,ErrorDirection,0,31,0,0,0,4,0,1,0,1
+app,com.steadypath.app.domain.comparison,DefaultAngleExtractor,1,204,4,26,0,29,4,14,0,3
+app,com.steadypath.app.domain.comparison,ReferenceRepSelectorKt,0,135,0,16,0,16,0,10,0,2
+app,com.steadypath.app.domain.comparison,RecordingSegmenterListener.DefaultImpls,0,1,0,0,0,1,0,1,0,1
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.14.invoke.lambda.2.lambda.1.lambda.0..inlined.popUpTo.default.new Function1() {...},1,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ConfirmSignUp,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,ProfessionalMyData,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ProfesionalGraph,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},26,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},145,0,0,0,12,0,7,0,7,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},186,0,0,0,13,0,8,0,8,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},98,0,0,0,5,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},146,0,0,0,10,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},68,0,0,0,8,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.1.new Function4() {...},68,0,0,0,8,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,TemplateDetail,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,PatientList,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ChooseAssignMethod,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,EditMyRoutine,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,PatientRoutines,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,DoctorRegistration,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ForgotPassword,18,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,PatientMyData,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ExerciseDetail,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,EditProfessionalProfile,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PatientPrivacy,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PatientNotificationSettings,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PatientProfile,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,EditAssignedRoutine,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,AuthGraph,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt,721,0,2,0,77,0,14,0,13,0
+app,com.steadypath.app.presentation.navigation,CreateRoutine,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PainReport,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,PatientGraph,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},56,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},64,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,ChooseTemplateForPatient,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},200,0,0,0,9,0,9,0,9,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},56,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},90,0,0,0,8,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},102,0,0,0,11,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},260,0,0,0,9,0,8,0,8,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},90,0,0,0,5,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},85,0,0,0,7,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},99,0,0,0,9,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},80,0,0,0,6,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,Privacy,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,EditPatientProfile,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,Progress,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},155,0,0,0,13,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},146,0,0,0,11,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},139,0,0,0,10,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},93,0,0,0,9,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},193,0,0,0,9,0,8,0,8,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},161,0,0,0,10,0,8,0,8,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},364,0,0,0,21,0,12,0,12,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},98,0,0,0,9,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.3.new Function4() {...},57,0,0,0,8,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,ChoosePatientForTemplate,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,RecordOwnReference,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,AssignRoutine,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NotificationSettings,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PrepareSpace,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,PatientDetail,32,0,0,0,1,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,RoutineList,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,Splash,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,RealtimeExercise,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,SignUpPrivacy,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,CreateTemplate,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,Dashboard,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,Login,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PatientRegistration,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,RoutineDetail,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,AdjustTolerance,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,RecordPatientReference,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,ProfessionalHome,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,RoleSelection,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ReferenceCapture,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},57,0,0,0,8,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},96,0,0,0,9,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,ChangePassword,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,PatientChangePassword,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ProfessionalRoutineDetail,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,ChooseExerciseForReference,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,ConfirmAssignTemplate,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,PatientCameraPreference,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},56,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},65,0,0,0,5,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},104,0,0,0,10,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},114,0,0,0,11,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},105,0,0,0,15,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},58,0,0,0,9,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},273,0,0,0,13,0,10,0,10,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},103,0,0,0,9,0,6,0,6,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},24,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,ProfessionalProfile,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},24,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},64,0,0,0,6,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,ExerciseList,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},176,0,0,0,12,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},189,0,0,0,9,0,6,0,6,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},104,0,0,0,9,0,5,0,5,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},188,0,0,0,13,0,7,0,7,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},224,0,0,0,13,0,6,0,6,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},80,0,0,0,6,0,3,0,3,0
+app,com.steadypath.app.presentation.navigation,NavGraphKt.NavGraph.1.1.2.new Function4() {...},100,0,0,0,7,0,4,0,4,0
+app,com.steadypath.app.presentation.navigation,RoutineTemplateLibrary,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,SessionSummary,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.navigation,ProfessionalCameraPreference,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.navigation,ExerciseCountdown,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.splash,SplashScreenKt.SplashScreen.1.1.new FlowCollector() {...},23,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.splash,SplashViewModel.NavigationEvent.SessionRestored,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.splash,SplashScreenKt,146,0,10,0,15,0,6,0,1,0
+app,com.steadypath.app.presentation.screens.splash,SplashScreenKt.SplashScreen.1.new Function2() {...},22,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.splash,SplashViewModel,39,0,0,0,8,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.splash,SplashViewModel.NavigationEvent.NoSession,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.splash,SplashViewModel.new Function2() {...},34,0,2,0,6,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.forgot,ValidacionRecuperacion,0,60,0,12,0,9,0,8,0,2
+app,com.steadypath.app.presentation.screens.forgot,ForgotPasswordViewModel,190,0,4,0,32,0,17,0,15,0
+app,com.steadypath.app.presentation.screens.forgot,ForgotPasswordViewModel.confirm.new Function2() {...},89,0,4,0,9,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.forgot,ForgotPasswordViewModel.requestCode.new Function2() {...},85,0,6,0,11,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.forgot,ForgotPasswordScreenKt,1100,0,43,0,118,0,32,0,8,0
+app,com.steadypath.app.presentation.screens.forgot,ForgotPasswordViewModel.Paso,25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportViewModel.saveAndFinish.new FlowCollector() {...},66,0,4,0,10,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportViewModel.NavigationEvent.RoutineFinished,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.pain,PainReportViewModel.proceed.new Function2() {...},40,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportScreenKt.PainReportScreen.1.new Function2() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportViewModel.NavigationEvent.NextExercise,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.pain,PainReportScreenKt,1187,0,22,0,125,0,29,0,13,0
+app,com.steadypath.app.presentation.screens.pain,PainReportScreenKt.PainReportScreen.1.1.new FlowCollector() {...},9,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportViewModel,159,0,2,0,39,0,9,0,8,0
+app,com.steadypath.app.presentation.screens.pain,PainReportScreenKt.PainReportScreen.2.new Function2() {...},22,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainReportScreenKt.PainReportScreen.2.1.new FlowCollector() {...},26,0,2,0,6,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.pain,PainData,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.local,RutinaDao,91,0,2,0,8,0,4,0,3,0
+app,com.steadypath.app.data.local,SesionEntity,57,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.local,ToleranciaConCache,189,0,16,0,13,0,10,0,2,0
+app,com.steadypath.app.data.local,RutinaEjercicioEntity,63,0,0,0,11,0,11,0,11,0
+app,com.steadypath.app.data.local,RutinaConEjercicios,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.local,ToleranciaPropiaEntity,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.local,MapeoLocalKt,412,0,6,0,124,0,13,0,11,0
+app,com.steadypath.app.data.local,OperacionPendienteEntity,53,0,0,0,8,0,8,0,8,0
+app,com.steadypath.app.data.local,LecturaConCacheKt.flujoConCache.1.local.new Function1() {...},0,8,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.local,LecturaConCache,211,0,14,0,20,0,16,0,9,0
+app,com.steadypath.app.data.local,DomiDatabase,3,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.data.local,LecturaConCacheKt.flujoConCache.1.2.new Function1() {...},0,10,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.local,LecturaConCacheKt,3,43,0,4,2,9,0,5,0,3
+app,com.steadypath.app.data.local,LecturaConCacheKt.flujoConCache.new Function2() {...},0,208,0,10,0,16,0,6,0,1
+app,com.steadypath.app.data.local,EjercicioEntity,57,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.local,BaseLocalDelUsuario.clear.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.local,RutinaEntity,57,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.local,BaseLocalDelUsuario,22,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.data.local,LecturaConCache.instantanea.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.local,LecturaConCache.instantanea.new Function2() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.local,LecturaConCache.instantanea.new Function1() {...},16,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.local,LecturaConCache.instantanea.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.local,LecturaConCache.instantanea.new Function1() {...},23,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.local,SesionDao,86,0,0,0,8,0,3,0,3,0
+app,com.steadypath.app.data.local,LecturaConCache.flujo.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.local,EjercicioDao,32,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.data.local,LecturaConCacheKt.flujoConCache.1.1.new Function1() {...},0,12,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.local,SesionConResultados,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.local,ResultadoSesionEntity,57,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.local,InstantaneaEntity,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.auth,AuthInterceptor.intercept.token.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.auth,AuthInterceptor,48,0,4,0,11,0,4,0,2,0
+app,com.steadypath.app.data.auth,TokenAuthenticator.authenticate.freshToken.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.auth,TokenAuthenticator,49,0,6,0,10,0,5,0,2,0
+app,com.steadypath.app.data.auth,CognitoAuthService,568,0,41,0,81,0,40,0,15,0
+app,com.steadypath.app.presentation.ui.theme,TypeKt,726,0,0,0,98,0,3,0,3,0
+app,com.steadypath.app.presentation.ui.theme,ColorKt,311,0,0,0,62,0,63,0,63,0
+app,com.steadypath.app.presentation.ui.theme,ThemeKt,266,0,10,0,70,0,7,0,2,0
+app,com.steadypath.app.presentation.ui.theme,ShapeKt,34,0,0,0,5,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,HasOwnReferenceUseCase,43,0,4,0,4,0,4,0,2,0
+app,com.steadypath.app.domain.usecase,SaveSessionUseCase,15,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,CreateRoutineUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,SetRoutineActiveUseCase,12,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetEffectiveCameraLensUseCase.invoke.1.new Function3() {...},14,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.domain.usecase,ResetPasswordUseCase,26,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.domain.usecase,AcceptInvitationUseCase,15,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,SignOutUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,SetToleranceUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetTemplateUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,ConsentUseCase,46,0,4,0,6,0,6,0,4,0
+app,com.steadypath.app.domain.usecase,RegisterUseCase,17,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetMyDataUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,CancelInvitationUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetEffectiveCameraLensUseCase.invoke.new Function2() {...},53,0,2,0,7,0,2,0,1,0
+app,com.steadypath.app.domain.usecase,ConfirmRegistrationUseCase,25,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app.domain.usecase,RemovePatientUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetEffectiveCameraLensUseCase,39,0,2,0,7,0,4,0,3,0
+app,com.steadypath.app.domain.usecase,GetTemplatesUseCase,10,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetMyProfessionalUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,AssignTemplateUseCase,13,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetExercisesUseCase,10,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetMyInvitationsUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,EditRoutineExercisesUseCase,13,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,UpdateProfessionalProfileUseCase,18,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,DeleteAccountUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,RejectInvitationUseCase,15,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,SignInUseCase,16,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,UpdatePasswordUseCase,16,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetProgressReportUseCase,18,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetRoutineUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,EditTemplateUseCase,13,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,RestoreSessionUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetInvitationsUseCase,10,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetRoutineComplianceUseCase,27,0,0,0,6,0,4,0,4,0
+app,com.steadypath.app.domain.usecase,CreateOwnRoutineUseCase,13,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,InvitePatientUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetMyPatientsUseCase,10,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,UpdatePatientProfileUseCase,16,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,UnlinkProfessionalUseCase,14,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetComplianceUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetExerciseVideosUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetEvaHistoryUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetSessionHistoryUseCase,11,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,CreateTemplateUseCase,12,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.domain.usecase,GetPatientRoutinesUseCase,22,0,0,0,5,0,3,0,3,0
+app,com.steadypath.app.domain.model,ServidorNoDisponibleException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,ExerciseVideo,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.domain.model,PermissionDeniedException,0,13,0,0,0,3,0,2,0,2
+app,com.steadypath.app.domain.model,PoseFrame,0,33,0,0,0,6,0,6,0,6
+app,com.steadypath.app.domain.model,ProgressReport,57,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.domain.model,Routine,18,33,0,0,0,9,6,3,6,3
+app,com.steadypath.app.domain.model,TiposProfesional,35,0,0,0,7,0,2,0,2,0
+app,com.steadypath.app.domain.model,Exercise,67,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.domain.model,PatientNotificationPreferences,42,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.domain.model,KeypointType,0,117,0,0,0,18,0,1,0,1
+app,com.steadypath.app.domain.model,Invitation,46,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.domain.model,RoutineExercise,21,56,0,0,0,10,7,3,7,3
+app,com.steadypath.app.domain.model,RoutineTemplate,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.model,MisDatos,111,0,0,0,19,0,19,0,19,0
+app,com.steadypath.app.domain.model,SesionEnEsperaException,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.domain.model,DiaSemana,80,0,0,0,8,0,4,0,4,0
+app,com.steadypath.app.domain.model,Session,15,36,0,0,0,9,5,4,5,4
+app,com.steadypath.app.domain.model,NoEncontradoException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,CameraLens,41,0,0,0,5,0,3,0,3,0
+app,com.steadypath.app.domain.model,ZoneProgress,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.domain.model,KeypointType.Companion,0,2,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,SessionResult,45,0,0,0,8,0,8,0,8,0
+app,com.steadypath.app.domain.model,ProvisionData,92,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.domain.model,User,74,39,0,0,1,12,11,2,11,2
+app,com.steadypath.app.domain.model,NotificationPreferences,42,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.domain.model,CameraLens.Companion,4,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.domain.model,Keypoint,3,24,0,0,0,5,1,4,1,4
+app,com.steadypath.app.domain.model,NotProvisionedException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,ExerciseCompliance,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.model,RecentSession,39,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.domain.model,DailyActivity,3,18,0,0,0,4,1,3,1,3
+app,com.steadypath.app.domain.model,AssignedProfessional,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.domain.model,AccountAlreadyExistsException,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.domain.model,NoAutenticadoException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,PatientTolerance,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.domain.model,UserNotConfirmedException,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.domain.model,Tolerance,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.model,TemplateExercise,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.model,Compliance,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.domain.model,RoutineCompliance,51,0,0,0,9,0,9,0,9,0
+app,com.steadypath.app.domain.model,PatientSummary,33,27,0,0,1,8,7,2,7,2
+app,com.steadypath.app.domain.model,EstadoDeSincronizacion,16,54,8,0,1,6,5,6,1,6
+app,com.steadypath.app.domain.model,PainRecord,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.model,SinConexionException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.domain.model,RegistrationResult.Completed,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.domain.model,ConflictoException,0,4,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.vision,PosePreprocessor,343,0,8,0,53,0,9,0,5,0
+app,com.steadypath.app.data.vision,PoseModelSpec.CoordinateSpace,0,19,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.vision,YoloPoseEstimator,624,0,42,0,129,0,33,0,12,0
+app,com.steadypath.app.data.vision,PoseModelSpec.Normalization,6,42,0,0,0,4,2,2,2,2
+app,com.steadypath.app.data.vision,PosePreprocessor.Result,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.data.vision,PoseModelSpec,88,341,9,13,3,42,17,16,9,13
+app,com.steadypath.app.data.vision,PoseEstimatorSession,18,75,1,4,3,17,3,5,2,3
+app,com.steadypath.app.data.vision,PosePostprocessor,8,498,4,20,0,81,2,12,0,7
+app,com.steadypath.app.data.vision,EstadoEstimador.Error,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.vision,PosePostprocessor.Detection,0,39,0,0,0,7,0,7,0,7
+app,com.steadypath.app.data.vision,PoseModelSpec.ChannelOrder,0,19,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.vision,PoseModelSpec.OutputLayout,0,19,0,0,0,1,0,1,0,1
+app,com.steadypath.app.data.vision,PoseModelSpec.Companion,6,26,0,0,3,5,3,2,3,2
+app,com.steadypath.app.data.vision,LetterboxParams,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.data.vision,PoseDiagnostics,739,0,80,0,93,0,42,0,2,0
+app,com.steadypath.app.data.vision,PoseEstimatorSession.start.new Function2() {...},9,79,4,5,2,9,3,3,0,1
+app,com.steadypath.app.data.vision,PoseEstimatorSession.Fase,0,31,0,0,0,1,0,1,0,1
+app,com.steadypath.app.presentation.components.bodydiagram,BodyRegion,18,21,0,0,1,2,2,3,2,3
+app,com.steadypath.app.presentation.components.bodydiagram,BodyArtworkFrontKt,0,329,0,0,0,41,0,2,0,2
+app,com.steadypath.app.presentation.components.bodydiagram,BodyView,92,0,0,0,13,0,6,0,6,0
+app,com.steadypath.app.presentation.components.bodydiagram,BodyArtworkBackKt,0,401,0,0,0,50,0,2,0,2
+app,com.steadypath.app.presentation.components.bodydiagram,BodyZoneMappingKt,0,465,0,2,0,44,0,6,0,5
+app,com.steadypath.app.presentation.screens.login,LoginScreenKt.LoginScreen.1.1.new FlowCollector() {...},25,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.login,LoginScreenKt.LoginScreen.2.new Function3() {...},93,0,0,0,11,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.login,LoginScreenKt,745,0,22,0,71,0,21,0,10,0
+app,com.steadypath.app.presentation.screens.login,LoginViewModel.NavigationEvent.LoginSuccess,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.login,LoginViewModel.login.new Function2() {...},120,0,8,0,15,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.login,LoginScreenKt.LoginScreen.1.new Function2() {...},22,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.login,LoginViewModel.NavigationEvent.NeedsConfirmation,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.login,LoginViewModel,55,0,0,0,9,0,4,0,4,0
+app,com.steadypath.app.data.comparison,ScoringDto,0,15,0,0,0,3,0,3,0,3
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository,1035,0,74,0,101,0,55,0,18,0
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.resolve.remote.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,NoOpMovementComparator,4,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.clear.new Function2() {...},50,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.uploadForPatient.new Function1() {...},19,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.comparison,ReferenceJsonWriter,0,136,0,2,0,27,0,4,0,3
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.uploadOwn.result.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,MetadataDto,0,21,0,0,0,4,0,4,0,4
+app,com.steadypath.app.data.comparison,NoOpMovementComparator.compare..inlined.map.1.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.data.comparison,LocalAssetReferenceRepository.getReference.loaded.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,LocalAssetReferenceRepository,222,0,8,0,35,0,9,0,5,0
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.new Function2() {...},2,380,2,22,0,39,2,12,0,2
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.resolve.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,ReferenceFileDto,0,83,0,0,0,9,0,9,0,9
+app,com.steadypath.app.data.comparison,AngleDefinitionDto,13,33,0,0,1,6,1,6,1,6
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.1.new FlowCollector() {...},0,111,0,12,0,18,0,7,0,1
+app,com.steadypath.app.data.comparison,DtwMovementComparator.compare.1.new Function2() {...},2,191,2,10,1,45,2,5,0,1
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.leerDeDisco.cached.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,ReferenceJsonParser,14,329,2,26,1,47,2,17,0,5
+app,com.steadypath.app.data.comparison,DtwMovementComparator,0,79,0,0,0,12,0,4,0,4
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.adoptarComoPropia.new Function2() {...},9,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.comparison,RemoteFirstReferenceRepository.Resuelta,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.data.comparison,CsvRepMetricsSink,104,0,6,0,13,0,7,0,4,0
+app,com.steadypath.app.presentation.screens.realtime,CameraPreviewKt,659,0,28,0,82,0,24,0,16,0
+app,com.steadypath.app.presentation.screens.realtime,FeedbackEffects,238,0,40,0,51,0,29,0,9,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeUiState.Completed,15,0,0,0,1,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel.onStop.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,CorrectionMessages,21,394,7,94,1,66,7,58,1,7
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.ActiveExerciseContent.1.5.new Function2() {...},9,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.RealtimeExerciseScreen.2.7.new Function2() {...},56,0,9,0,9,0,6,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,CameraSessionHolder,24,0,0,0,4,0,7,0,7,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.RealtimeExerciseScreen.2.9.new Function2() {...},11,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeUiState.Active,121,0,0,0,12,0,12,0,12,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel.startComparison.1.new FlowCollector() {...},132,0,18,0,23,0,10,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,PoseOverlayKt,740,0,72,0,84,0,42,0,6,0
+app,com.steadypath.app.presentation.screens.realtime,PostureStatus,25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,Quadruple,27,0,0,0,1,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.realtime,CorrectionMessages.Familia,0,43,0,0,0,1,0,1,0,1
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.RealtimeExerciseScreen.1.new Function2() {...},18,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.SkipSeriesDialog.new Function2() {...},260,0,4,0,26,0,4,0,2,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.SkipSeriesDialog.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.SkipSeriesDialog.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,CameraLensViewModel,21,0,0,0,7,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.realtime,PoseCameraViewKt,440,0,36,0,46,0,31,0,13,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel,532,0,58,0,121,0,44,0,14,0
+app,com.steadypath.app.presentation.screens.realtime,FeedbackEffectsKt,68,0,0,0,5,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel.startComparison.1.1.new Function2() {...},13,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel.initialize.new Function2() {...},56,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt,2296,0,60,0,225,0,59,0,28,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseScreenKt.RealtimeExerciseScreen.2.8.new Function2() {...},20,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeUiState.Error,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.realtime,RealtimeExerciseViewModel.startComparison.new Function2() {...},25,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt,1305,0,35,0,181,0,29,0,13,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListScreen.1.new Function2() {...},5,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.saveChanges.1.new FlowCollector() {...},55,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.1.new Function2() {...},7,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.loadCatalog.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListViewModel.loadRoutines.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel,223,0,4,0,38,0,17,0,15,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListContent.1.1.new Function3() {...},22,0,0,0,5,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.saveChanges.new Function2() {...},48,0,0,0,9,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.deactivateRoutine.1.new FlowCollector() {...},30,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt.EditAssignedRoutineScreen.2.new Function2() {...},10,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt,1455,0,48,0,184,0,18,0,12,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListViewModel,55,0,0,0,12,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt.EditAssignedRoutineScreen.7.1.3.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt.EditAssignedRoutineScreen.7.1.3.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListViewModel.loadRoutines.new Function2() {...},74,0,8,0,10,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.deactivateRoutine.new Function2() {...},22,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel.isFormValid.new Function3() {...},29,0,8,0,2,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel,261,0,6,0,38,0,19,0,16,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt,1863,0,30,0,164,0,46,0,31,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.loadRoutine.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt.DeactivateConfirmDialog.new Function2() {...},356,0,0,0,51,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel.loadCatalog.1.new FlowCollector() {...},47,0,4,0,6,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel.saveRoutine.new Function2() {...},55,0,0,0,13,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel.saveRoutine.1.new FlowCollector() {...},53,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.2.1.4.1.2.1.new Function0() {...},14,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListContent.lambda.16.lambda.15..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListContent.lambda.16.lambda.15..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListContent.lambda.16.lambda.15..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineListScreenKt.RoutineListContent.1.1.2.1.new Function0() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineScreenKt,2024,0,28,0,227,0,43,0,29,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.lambda.16.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.lambda.16.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.lambda.16.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineScreenKt.EditAssignedRoutineScreen.1.new Function2() {...},7,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailViewModel.loadRoutine.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.loadCatalog.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineViewModel.loadCatalog.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,EditAssignedRoutineViewModel.loadRoutine.1.new FlowCollector() {...},81,0,4,0,9,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.routines,CreateRoutineScreenKt.RoutineCreatedDialog.new Function2() {...},220,0,0,0,39,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailScreenKt.RoutineDetailScreen.2.1.4.1.new Function3() {...},46,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailViewModel,77,0,6,0,13,0,8,0,5,0
+app,com.steadypath.app.presentation.screens.routines,RoutineDetailViewModel.loadRoutine.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.NavigationEvent.GoToLogin,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel,230,0,0,0,34,0,20,0,20,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationScreenKt,1334,0,16,0,146,0,20,0,12,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.register.new Function2() {...},242,0,20,0,21,0,11,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.NavigationEvent.RegistrationCompleted,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationScreenKt.DoctorRegistrationScreen.2.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.NavigationEvent.NeedsConfirmation,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.requiereMatricula.new Function3() {...},13,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationScreenKt.DoctorRegistrationScreen.1.1.new FlowCollector() {...},32,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationViewModel.special..inlined.combine.1.new Function0() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.doctor,DoctorRegistrationScreenKt.DoctorRegistrationScreen.1.new Function2() {...},24,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.progress,ProgressViewModel,49,0,0,0,10,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.progress,ProgressScreenKt,2978,0,103,0,384,0,72,0,20,0
+app,com.steadypath.app.presentation.screens.progress,ProgressViewModel.loadProgress.new Function2() {...},71,0,8,0,10,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.progress,ProgressViewModel.loadProgress.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.progress,ProgressScreenKt.ProgressScreen.1.new Function2() {...},5,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.2.new Function2() {...},9,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.capture,RecordReferenceScreenKt,1926,0,74,0,190,0,56,0,19,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.new Function3() {...},165,0,2,0,14,0,4,0,3,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.3.5.1.new Function2() {...},25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,Quadruple,27,0,0,0,1,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureViewModel.export.new Function2() {...},208,0,6,0,22,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.capture,CapturedRepSummary,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureViewModel.saveToBackend.new Function2() {...},318,0,10,0,48,0,6,0,1,0
+app,com.steadypath.app.presentation.screens.capture,RecordReferenceScreenKt.RecordReferenceScreen.2.new Function2() {...},9,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.3.1.new FlowCollector() {...},44,0,0,0,11,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.5.new Function3() {...},30,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt,1119,0,30,0,99,0,25,0,10,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.3.new Function2() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureViewModel,873,0,54,0,164,0,48,0,21,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.1.new Function2() {...},14,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.3.new Function3() {...},75,0,0,0,8,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.3.new Function2() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureScreenKt.ReferenceCaptureScreen.4.2.3.new Function2() {...},25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureViewModel.segmenterListener.new RecordingSegmenterListener() {...},146,0,11,0,20,0,11,0,5,0
+app,com.steadypath.app.presentation.screens.capture,RecordReferenceScreenKt.RecordReferenceScreen.3.new Function2() {...},27,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.capture,ReferenceCaptureUiState,150,0,2,0,14,0,15,0,14,0
+app,com.steadypath.app.presentation.screens.capture,RecordReferenceScreenKt.RecordReferenceScreen.1.new Function2() {...},25,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.data.datasource,SafeApiCaller,127,0,18,0,21,0,14,0,5,0
+app,com.steadypath.app.data.datasource,SafeApiCaller.flowCall.new Function2() {...},36,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.datasource,SafeApiCallerKt,0,18,0,2,0,2,0,2,0,1
+app,com.steadypath.app.data.datasource,RehabApiService.DefaultImpls,22,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.data.datasource,SafeApiCaller.execute.new Function2() {...},105,0,8,0,19,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel.loadRoutine.new Function2() {...},85,0,2,0,9,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseExerciseForReferenceScreenKt.ChooseExerciseForReferenceScreen.1.1.4.1.2.1.new Function0() {...},16,0,0,0,5,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListScreen.1.new Function2() {...},5,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AdjustToleranceScreenKt,551,0,14,0,55,0,13,0,6,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt.PatientRoutinesScreen.lambda.10.lambda.9.lambda.8.lambda.7..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt.PatientRoutinesScreen.lambda.10.lambda.9.lambda.8.lambda.7..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt.PatientRoutinesScreen.lambda.10.lambda.9.lambda.8.lambda.7..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel,272,0,4,0,36,0,11,0,9,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateScreenKt,1146,0,16,0,116,0,28,0,20,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.invitePatient.1.new FlowCollector() {...},51,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateViewModel,83,0,0,0,14,0,6,0,6,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateViewModel.assignTemplate.new Function2() {...},29,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateScreenKt.TemplateCreatedDialog.new Function2() {...},224,0,0,0,38,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileViewModel,87,0,2,0,15,0,7,0,6,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.invitePatient.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateListViewModel.loadTemplates.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.loadHome.new Function2() {...},444,0,32,0,37,0,17,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel,150,0,4,0,18,0,8,0,6,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.RoutineTemplateLibraryScreen.1.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileScreenKt.ProfessionalProfileScreen.2.new Function2() {...},11,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.1.1.3.1.new Function0() {...},18,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AdjustToleranceViewModel.saveTolerance.new Function2() {...},34,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ConfirmAssignDialog.new Function2() {...},256,0,0,0,40,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.loadTemplate.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailScreenKt.PatientDetailScreen.1.new Function2() {...},7,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateViewModel.assignTemplate.1.new FlowCollector() {...},53,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.lambda.27.lambda.26..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.lambda.27.lambda.26..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.lambda.27.lambda.26..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.signOut.new Function2() {...},23,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileScreenKt.ConfirmSaveDialog.new Function2() {...},247,0,0,0,39,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.loadCatalog.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileViewModel.signOut.new Function2() {...},60,0,4,0,6,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseAssignMethodScreenKt,372,0,0,0,65,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ChoosePatientForTemplateScreen.1.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel,175,0,0,0,30,0,12,0,12,0
+app,com.steadypath.app.presentation.screens.professional,NotificationSettingsViewModel.onResumenSemanalChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineScreenKt.RoutineAssignedDialog.new Function2() {...},218,0,0,0,38,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel,225,0,4,0,37,0,17,0,15,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileViewModel.loadProfile.new Function2() {...},60,0,8,0,7,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailScreenKt,2916,0,93,0,357,0,67,0,20,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeScreenKt,1516,0,51,0,194,0,33,0,7,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.loadCatalog.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel,272,0,8,0,40,0,20,0,16,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.refreshData.new FlowCollector() {...},38,0,4,0,4,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileScreenKt.ProfileSavedDialog.new Function2() {...},164,0,0,0,31,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.refreshData.new FlowCollector() {...},38,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.refreshData.new FlowCollector() {...},24,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel,44,0,0,0,10,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt,2528,0,87,0,277,0,80,0,36,0
+app,com.steadypath.app.presentation.screens.professional,PatientAlert.HighPain,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.cancelInvitation.1.new FlowCollector() {...},24,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel.isFormValid.new Function3() {...},29,0,8,0,2,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeScreenKt.ProfessionalHomeScreen.1.new Function2() {...},5,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileViewModel.NavigationEvent.SignedOut,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt.PatientRoutinesScreen.2.1.3.1.2.1.new Function0() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailData,66,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ChoosePatientForTemplateScreen.lambda.22.lambda.21.lambda.20.lambda.19..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ChoosePatientForTemplateScreen.lambda.22.lambda.21.lambda.20.lambda.19..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ChoosePatientForTemplateScreen.lambda.22.lambda.21.lambda.20.lambda.19..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,NotificationSettingsViewModel,83,0,0,0,11,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailData,25,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel.loadCatalog.1.new FlowCollector() {...},47,0,4,0,6,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientAlert.Inactive,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateScreenKt.DraftExerciseRow.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseExerciseForReferenceScreenKt,564,0,18,0,66,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.3.1.new Function3() {...},22,0,0,0,5,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.3.1.new Function3() {...},48,0,0,0,5,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineScreenKt,1372,0,18,0,141,0,31,0,22,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailScreenKt.ProfessionalRoutineDetailScreen.1.new Function2() {...},7,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailScreenKt.EditTemplateBody.4.1.2.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.ManagePatientsSheet.3.new Function2() {...},338,0,0,0,41,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.RoutineAssignedDialog.new Function2() {...},234,0,0,0,38,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailScreenKt.EditTemplateBody.4.1.2.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileScreenKt.EditProfessionalProfileScreen.2.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeData,78,0,0,0,8,0,8,0,8,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.TemplateListBody.3.1.3.1.new Function0() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt,1349,0,44,0,130,0,30,0,22,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt,1383,0,49,0,150,0,41,0,16,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesViewModel.loadRoutines.new Function2() {...},27,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.ManagePatientsSheet.1.new Function2() {...},10,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel.setActive.new Function2() {...},25,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateListViewModel.loadTemplates.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,RoutineTemplateLibraryScreenKt.ChooseTemplateForPatientScreen.1.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateViewModel.loadPatients.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt,886,0,20,0,111,0,7,0,6,0
+app,com.steadypath.app.presentation.screens.professional,HistorialEntry,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel.loadCatalog.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesScreenKt.PatientRoutinesScreen.1.new Function2() {...},7,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.1.1.new Function3() {...},17,0,0,0,5,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel.loadPatient.1.new FlowCollector() {...},43,0,2,0,7,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel.loadPatient.1.new FlowCollector() {...},41,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel.loadPatient.1.new FlowCollector() {...},38,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel.loadPatient.1.new FlowCollector() {...},38,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.loadHome.1.new FlowCollector() {...},31,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.loadHome.1.new FlowCollector() {...},24,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.loadHome.1.new FlowCollector() {...},24,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.loadHome.1.new FlowCollector() {...},43,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel.saveRoutine.new Function2() {...},57,0,0,0,14,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailViewModel.loadPatient.new Function2() {...},117,0,0,0,8,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AdjustToleranceViewModel,102,0,4,0,20,0,10,0,8,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileScreenKt.ProfessionalProfileScreen.3.new Function2() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AdjustToleranceScreenKt.AdjustToleranceScreen.1.new Function2() {...},10,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel.isFormValid.new Function3() {...},29,0,8,0,2,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel.loadRoutine.1.new FlowCollector() {...},28,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel.loadRoutine.1.new FlowCollector() {...},43,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel.saveRoutine.1.new FlowCollector() {...},53,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineViewModel.loadCatalog.1.new FlowCollector() {...},47,0,4,0,6,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileViewModel.loadProfile.new Function2() {...},21,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,NotificationSettingsViewModel.onAlertasDolorAltoChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateListViewModel,66,0,0,0,13,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.removePatient.1.new FlowCollector() {...},24,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientDetailScreenKt.PatientDetailScreen.2.new Function2() {...},106,0,4,0,6,0,5,0,3,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.loadPatients.new Function2() {...},49,0,4,0,4,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailScreenKt,2265,0,32,0,239,0,46,0,30,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileScreenKt.ProfessionalProfileScreen.1.new Function2() {...},5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateScreenKt.ChoosePatientForTemplateScreen.2.1.4.1.2.1.new Function0() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel.setActive.1.new FlowCollector() {...},31,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.saveEdits.1.new FlowCollector() {...},60,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel.saveTemplate.new Function2() {...},54,0,0,0,9,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailScreenKt.TemplateDetailScreen.1.new Function2() {...},7,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AssignRoutineScreenKt.DraftExerciseRow.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeScreenKt.ProfessionalHomeScreen.2.1.new FlowCollector() {...},10,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeScreenKt.ProfessionalHomeScreen.2.new Function2() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.saveEdits.new Function2() {...},55,0,0,0,5,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseExerciseForReferenceScreenKt.ChooseExerciseForReferenceScreen.lambda.11.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseExerciseForReferenceScreenKt.ChooseExerciseForReferenceScreen.lambda.11.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ChooseExerciseForReferenceScreenKt.ChooseExerciseForReferenceScreen.lambda.11.lambda.10.lambda.9.lambda.8..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,NotificationSettingsScreenKt,315,0,6,0,38,0,5,0,2,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailViewModel,59,0,0,0,11,0,4,0,4,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalHomeViewModel.NavigationEvent.SignedOut,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateListViewModel.new Function2() {...},32,0,4,0,2,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientAttentionItem,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.professional,PatientListData,42,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.ManagePatientsSheet.2.1.3.2.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalRoutineDetailScreenKt,871,0,28,0,104,0,18,0,4,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesViewModel.loadRoutines.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileScreenKt.ProfessionalProfileScreen.3.1.new FlowCollector() {...},10,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel.saveTemplate.1.new FlowCollector() {...},53,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.ManagePatientsSheet.new Function3() {...},1051,0,4,0,132,0,7,0,5,0
+app,com.steadypath.app.presentation.screens.professional,ChoosePatientForTemplateViewModel.loadPatients.1.new FlowCollector() {...},47,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,NotificationSettingsViewModel.onAlertasPacientesInactivosChange.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.PatientListContent.lambda.42.lambda.41..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientListScreenKt.ManagePatientsSheet.2.1.3.1.1.new Function2() {...},17,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileViewModel,124,0,0,0,21,0,14,0,14,0
+app,com.steadypath.app.presentation.screens.professional,ProfessionalProfileScreenKt,1156,0,34,0,127,0,26,0,9,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.cancelInvitation.new Function2() {...},21,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,AdjustToleranceViewModel.saveTolerance.1.new FlowCollector() {...},53,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileViewModel.saveProfile.new Function2() {...},140,0,10,0,13,0,6,0,1,0
+app,com.steadypath.app.presentation.screens.professional,TemplateDetailViewModel.loadTemplate.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,PatientRoutinesViewModel,35,0,0,0,7,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.professional,EditProfessionalProfileScreenKt,980,0,16,0,99,0,26,0,18,0
+app,com.steadypath.app.presentation.screens.professional,PatientListViewModel.removePatient.new Function2() {...},21,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.professional,CreateTemplateViewModel.loadCatalog.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.di,VisionModule_ProvideRepetitionSegmenterFactoryFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.di,NetworkModule_ProvideIoDispatcherFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.di,VisionModule_ProvideAngleExtractorFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.di,LocalModule,36,0,0,0,12,0,10,0,10,0
+app,com.steadypath.app.data.di,VisionModule_ProvidePoseModelSpecFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.di,NetworkModule_ProvideGsonFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.di,VisionModule,80,0,2,0,22,0,14,0,13,0
+app,com.steadypath.app.data.di,NetworkModule,136,0,2,0,36,0,18,0,17,0
+app,com.steadypath.app.data.di,VisionModule_ProvideRecordingSegmenterFactoryFactory.InstanceHolder,5,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.mapper,DtoMappersKt,676,188,48,2,148,42,44,4,20,3
+app,com.steadypath.app.presentation.common,UiState.Error,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.common,UiState.Success,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpScreenKt.ConfirmSignUpScreen.1.new Function2() {...},22,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpScreenKt,652,0,16,0,65,0,16,0,8,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpViewModel.NavigationEvent.Completed,10,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpViewModel.NavigationEvent.GoToLogin,4,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpScreenKt.ConfirmSignUpScreen.1.1.new FlowCollector() {...},23,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpViewModel.confirm.new Function2() {...},110,0,10,0,14,0,6,0,1,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpViewModel,90,0,0,0,14,0,7,0,7,0
+app,com.steadypath.app.presentation.screens.confirm,ConfirmSignUpViewModel.resendCode.new Function2() {...},58,0,4,0,6,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.role,RoleSelectionScreenKt,621,0,2,0,103,0,5,0,4,0
+app,com.steadypath.app.domain.repository,SessionResultInput,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.domain.repository,RoutineRepository.DefaultImpls,20,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.domain.repository,RoutineExerciseInput,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app,DomiApplication,38,0,0,0,12,0,4,0,4,0
+app,com.steadypath.app,MainActivityKt,64,0,0,0,4,0,3,0,3,0
+app,com.steadypath.app,MainActivity,61,0,2,0,16,0,4,0,3,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListScreenKt,479,0,16,0,65,0,6,0,5,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListScreenKt.ExerciseListScreen.1.1.3.1.2.1.new Function0() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailContent.1.1.1.new Function2() {...},118,0,4,0,8,0,5,0,3,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailContent.1.1.1.new Function3() {...},31,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseVideoSectionKt,626,0,16,0,68,0,17,0,11,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailContent.1.1.1.2.new Function2() {...},39,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailContent.1.1.1.2.new Function2() {...},40,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseVideoSectionKt.ExerciseVideoSection.new Function2() {...},82,0,0,0,12,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel.loadExercise.1.new FlowCollector() {...},136,0,12,0,14,0,7,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseVideoSectionKt.VideoPlayer.1.1.listener.new Player.Listener() {...},8,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailScreen.5.new Function2() {...},21,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailData,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel.onStartExercise.new Function2() {...},110,0,12,0,11,0,7,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel,133,0,4,0,26,0,10,0,8,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel.loadVideos.1.new FlowCollector() {...},52,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt,1559,0,37,0,187,0,33,0,14,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListScreenKt.ExerciseListScreen.lambda.11.lambda.8.lambda.7.lambda.6..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListScreenKt.ExerciseListScreen.lambda.11.lambda.8.lambda.7.lambda.6..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListScreenKt.ExerciseListScreen.lambda.11.lambda.8.lambda.7.lambda.6..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListViewModel,38,0,0,0,10,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel.loadExercise.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailScreen.2.new Function2() {...},7,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.MissingReferenceDialog.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.MissingReferenceDialog.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListViewModel.loadExercises.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseListViewModel.loadExercises.1.new FlowCollector() {...},48,0,4,0,7,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailViewModel.loadVideos.new Function2() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailScreen.new Function2() {...},38,0,0,0,4,0,2,0,2,0
+app,com.steadypath.app.presentation.screens.exercises,ExerciseDetailScreenKt.ExerciseDetailScreen.new Function2() {...},43,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.session,SessionSummaryScreenKt,847,0,6,0,126,0,9,0,6,0
+app,com.steadypath.app.data.sync,OperacionPendiente,12,21,0,0,0,6,4,2,4,2
+app,com.steadypath.app.data.sync,MonitorDeConectividad,151,0,18,0,20,0,15,0,6,0
+app,com.steadypath.app.data.sync,EstadoDeLaSesion,28,0,0,0,7,0,4,0,4,0
+app,com.steadypath.app.data.sync,Sincronizador.enviar.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,ColaDeOperacionesRoom,164,0,8,0,24,0,11,0,7,0
+app,com.steadypath.app.data.sync,SincronizacionWorker,70,0,4,0,7,0,4,0,2,0
+app,com.steadypath.app.data.sync,TipoDeOperacion,0,46,0,0,0,5,0,3,0,3
+app,com.steadypath.app.data.sync,MonitorDeConectividad.1.new ConnectivityManager.NetworkCallback() {...},20,0,0,0,5,0,3,0,3,0
+app,com.steadypath.app.data.sync,EnvioDePendientes.Resumen,6,38,0,0,0,6,2,4,2,4
+app,com.steadypath.app.data.sync,EnvioDePendientes.procesar.new Function3() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,PrecargaOffline.precargar.new FlowCollector() {...},25,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador,771,0,37,0,99,0,36,0,16,0
+app,com.steadypath.app.data.sync,Sincronizador.enviarPendientes.2.new Function2() {...},15,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,MonitorDeConectividad.Companion,2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.estado.new Function5() {...},28,0,4,0,2,0,3,0,1,0
+app,com.steadypath.app.data.sync,SincronizacionWorker.Companion,46,0,0,0,9,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.enviarEnSegundoPlano.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.enviarPendientes.2.resumen.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.enviarPendientes.2.resumen.new Function2() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,EnvioDePendientes,17,155,0,14,2,19,1,9,1,2
+app,com.steadypath.app.data.sync,Sincronizador.enviarPendientes.2.resumen.new Function3() {...},24,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,PrecargaOffline,339,0,16,0,40,0,13,0,5,0
+app,com.steadypath.app.data.sync,Sincronizador.alIniciarSesion.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.iniciar.1.new FlowCollector() {...},64,0,4,0,5,0,3,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.iniciar.new Function2() {...},41,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.sync,SincronizadorKt,0,56,0,6,0,5,0,4,0,1
+app,com.steadypath.app.data.sync,Sincronizador.enviar.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.enviar.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.sync,Sincronizador.enviar.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,SettingsNavRowKt,211,0,4,0,39,0,3,0,1,0
+app,com.steadypath.app.presentation.components,DomiMainHeaderKt,340,0,6,0,51,0,5,0,2,0
+app,com.steadypath.app.presentation.components,TipoDeAviso,0,31,0,0,0,1,0,1,0,1
+app,com.steadypath.app.presentation.components,ConsentViewModel,83,0,2,0,14,0,6,0,5,0
+app,com.steadypath.app.presentation.components,TipoProfesionalDropdownKt.TipoProfesionalDropdown.1.2.new Function3() {...},73,0,0,0,8,0,2,0,2,0
+app,com.steadypath.app.presentation.components,ConsentViewModel.ejecutar.new Function2() {...},65,0,6,0,7,0,4,0,1,0
+app,com.steadypath.app.presentation.components,BottomNavTab,25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt.ExerciseConfigDialog.new Function2() {...},510,0,12,0,47,0,13,0,7,0
+app,com.steadypath.app.presentation.components,EmergencyCallButtonKt.LaunchedCountdown.1.new Function2() {...},27,0,2,0,5,0,2,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt,2140,0,70,0,244,0,49,0,28,0
+app,com.steadypath.app.presentation.components,LabeledFieldKt,109,0,8,0,12,0,5,0,1,0
+app,com.steadypath.app.presentation.components,EmergencyCallButtonKt,645,0,26,0,59,0,25,0,12,0
+app,com.steadypath.app.presentation.components,TipoProfesionalDropdownKt.TipoProfesionalDropdown.1.2.3.1.new Function2() {...},24,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt.ExercisePicker.1.1.3.1.2.1.new Function0() {...},7,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt.ExercisePicker.lambda.8.lambda.7.lambda.6.lambda.5..inlined.items.default.new Function1() {...},2,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt.ExercisePicker.lambda.8.lambda.7.lambda.6.lambda.5..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,RoutineExercisePickerKt.ExercisePicker.lambda.8.lambda.7.lambda.6.lambda.5..inlined.items.default.new Function1() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,AvisoDeConexionKt,59,85,5,21,8,22,4,12,1,2
+app,com.steadypath.app.presentation.components,Aviso,0,15,0,0,0,1,0,3,0,3
+app,com.steadypath.app.presentation.components,DomiTextFieldKt.DomiTextField.1.new Function2() {...},42,0,2,0,1,0,3,0,2,0
+app,com.steadypath.app.presentation.components,DomiTextFieldKt.DomiTextField.1.new Function2() {...},43,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.presentation.components,BodyZonesDiagramKt,582,0,16,0,88,0,18,0,10,0
+app,com.steadypath.app.presentation.components,DomiTextFieldKt.DomiTextField.1.new Function2() {...},28,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.presentation.components,GradientButtonKt,208,0,24,0,18,0,14,0,2,0
+app,com.steadypath.app.presentation.components,DomiTextFieldKt.DomiTextField.1.1.new Function2() {...},27,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.components,DeleteAccountViewModel.Estado.Error,9,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.components,CameraLensSelectorKt,601,0,30,0,81,0,19,0,4,0
+app,com.steadypath.app.presentation.components,DashedAddButtonKt,278,0,16,0,32,0,11,0,3,0
+app,com.steadypath.app.presentation.components,DomiBottomNavBarKt,506,0,20,0,61,0,16,0,6,0
+app,com.steadypath.app.presentation.components,GradientButtonKt.GradientButton.new Function3() {...},157,0,4,0,22,0,3,0,1,0
+app,com.steadypath.app.presentation.components,ConsentViewModel.new Function2() {...},41,0,2,0,2,0,2,0,1,0
+app,com.steadypath.app.presentation.components,AvisoDeConexionKt.AvisoDeConexion.new Function3() {...},265,0,18,0,43,0,12,0,2,0
+app,com.steadypath.app.presentation.components,DeleteAccountSectionKt.DeleteAccountSection.new Function2() {...},32,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.components,DeleteAccountSectionKt.DeleteAccountSection.new Function2() {...},43,0,0,0,5,0,2,0,2,0
+app,com.steadypath.app.presentation.components,PrimaryButtonKt.PrimaryButton.new Function3() {...},111,0,2,0,17,0,2,0,1,0
+app,com.steadypath.app.presentation.components,SignOutSectionKt,184,0,8,0,24,0,7,0,3,0
+app,com.steadypath.app.presentation.components,ConsentViewModel.otorgar.new Function1() {...},11,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,CameraLensPickerViewModel,30,0,0,0,9,0,3,0,3,0
+app,com.steadypath.app.presentation.components,CameraStatusOverlayKt,326,0,34,0,42,0,19,0,2,0
+app,com.steadypath.app.presentation.components,ConsentViewModel.revocar.new Function1() {...},11,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,ConsentViewModel.Estado.Listo,25,0,0,0,1,0,4,0,4,0
+app,com.steadypath.app.presentation.components,CameraLensPickerKt,119,0,12,0,12,0,8,0,2,0
+app,com.steadypath.app.presentation.components,PrimaryButtonKt,194,0,24,0,19,0,14,0,2,0
+app,com.steadypath.app.presentation.components,DeleteAccountViewModel,45,0,2,0,9,0,4,0,3,0
+app,com.steadypath.app.presentation.components,DomiTextFieldKt,363,0,20,0,45,0,13,0,3,0
+app,com.steadypath.app.presentation.components,DraftExercise,46,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.presentation.components,DomiLogoKt,98,0,8,0,19,0,6,0,2,0
+app,com.steadypath.app.presentation.components,ConsentSectionKt.ConsentSection.new Function2() {...},38,0,0,0,5,0,2,0,2,0
+app,com.steadypath.app.presentation.components,ConsentSectionKt.ConsentSection.new Function2() {...},32,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.presentation.components,TipoProfesionalDropdownKt,163,0,2,0,14,0,5,0,4,0
+app,com.steadypath.app.presentation.components,TipoProfesionalDropdownKt.TipoProfesionalDropdown.1.new Function3() {...},251,0,4,0,27,0,4,0,2,0
+app,com.steadypath.app.presentation.components,AvisoDeConexionViewModel,37,0,0,0,8,0,3,0,3,0
+app,com.steadypath.app.presentation.components,DomiTopBarKt,304,0,20,0,43,0,13,0,3,0
+app,com.steadypath.app.presentation.components,ProfessionalBottomNavBarKt,498,0,20,0,59,0,16,0,6,0
+app,com.steadypath.app.presentation.components,SignOutSectionKt.SignOutConfirmDialog.new Function2() {...},455,0,10,0,66,0,6,0,1,0
+app,com.steadypath.app.presentation.components,DeleteAccountSectionKt,329,0,16,0,26,0,14,0,6,0
+app,com.steadypath.app.presentation.components,BodyZonesDiagramKt.BodyZonesDiagram.1.new Function2() {...},24,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,DeleteAccountSectionKt.DeleteAccountSection.1.new Function3() {...},64,0,2,0,6,0,2,0,1,0
+app,com.steadypath.app.presentation.components,DomiLogoKt.DomiLogoLockup.new Function2() {...},33,0,0,0,7,0,1,0,1,0
+app,com.steadypath.app.presentation.components,ProfessionalNavTab,25,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.components,SettingsToggleRowKt,240,0,4,0,35,0,3,0,1,0
+app,com.steadypath.app.presentation.components,ConsentSectionKt,586,0,30,0,53,0,21,0,6,0
+app,com.steadypath.app.presentation.components,DeleteAccountViewModel.eliminar.new Function2() {...},53,0,6,0,7,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel,572,0,54,0,78,0,40,0,13,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.loadDashboard.1.new FlowCollector() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.loadDashboard.1.new Function6() {...},69,0,12,0,9,0,7,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.loadDashboard.1.new Function2() {...},25,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,TodayRoutine,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.dashboard,ConsentRevokedBannerKt,141,0,0,0,19,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardScreenKt,2733,0,65,0,338,0,49,0,16,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardScreenKt.DashboardScreen.2.new Function2() {...},5,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.acceptInvitation.new Function2() {...},46,0,4,0,4,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DailyComplianceBar,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.rejectInvitation.new Function2() {...},46,0,4,0,4,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModelKt,11,342,2,10,0,37,2,6,0,2
+app,com.steadypath.app.presentation.screens.dashboard,DashboardViewModel.loadDashboard.new Function2() {...},167,0,16,0,21,0,9,0,1,0
+app,com.steadypath.app.presentation.screens.dashboard,DashboardData,78,0,0,0,8,0,8,0,8,0
+app,com.steadypath.app.presentation.screens.settings,PrivacyScreenKt,574,0,20,0,99,0,12,0,2,0
+app,com.steadypath.app.presentation.screens.settings,ChangePasswordScreenKt.PasswordChangedDialog.new Function2() {...},164,0,0,0,31,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.settings,ChangePasswordViewModel.changePassword.new Function2() {...},74,0,4,0,8,0,3,0,1,0
+app,com.steadypath.app.presentation.screens.settings,ChangePasswordViewModel,131,0,10,0,21,0,16,0,11,0
+app,com.steadypath.app.presentation.screens.settings,ChangePasswordScreenKt,660,0,10,0,82,0,12,0,7,0
+app,com.steadypath.app.presentation.screens.settings,CameraPreferenceViewModel,54,0,0,0,12,0,3,0,3,0
+app,com.steadypath.app.presentation.screens.settings,MyDataScreenKt,737,0,14,0,80,0,13,0,6,0
+app,com.steadypath.app.presentation.screens.settings,MyDataViewModel.cargar.new Function2() {...},54,0,6,0,4,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.settings,MyDataScreenKt.MyDataContent.1.new Function2() {...},130,0,8,0,7,0,5,0,1,0
+app,com.steadypath.app.presentation.screens.settings,MyDataScreenKt.MyDataContent.1.new Function2() {...},52,0,2,0,6,0,2,0,1,0
+app,com.steadypath.app.presentation.screens.settings,MyDataScreenKt.MyDataContent.1.new Function2() {...},17,0,0,0,2,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.settings,MyDataScreenKt.MyDataContent.1.new Function2() {...},62,0,0,0,7,0,1,0,1,0
+app,com.steadypath.app.presentation.screens.settings,CameraPreferenceScreenKt,193,0,6,0,21,0,5,0,2,0
+app,com.steadypath.app.presentation.screens.settings,CameraPreferenceViewModel.elegir.new Function2() {...},59,0,6,0,5,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.settings,CameraPreferenceViewModel.lente.new Function2() {...},61,0,6,0,5,0,4,0,1,0
+app,com.steadypath.app.presentation.screens.settings,MyDataViewModel,42,0,0,0,11,0,3,0,3,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.Companion,8,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.signIn.new Function2() {...},209,0,22,0,18,0,12,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.updatePatientProfile.2.resultado.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.deleteAccount.new Function2() {...},107,0,6,0,8,0,4,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.editRoutineExercises.1.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.editTemplate.new Function1() {...},22,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.register.new Function2() {...},113,0,2,0,10,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.2.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getEvaHistory.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getEvaHistory.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getProgressReport.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.updateConsent.new Function2() {...},106,0,10,0,10,0,6,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.getMyProfessional.2.respuesta.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.cancelInvitation.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.unlinkProfessional.new Function2() {...},100,0,10,0,10,0,6,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl,451,0,18,0,60,0,20,0,11,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.setRoutineActive.new Function2() {...},77,0,2,0,6,0,3,0,2,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl,67,0,0,0,10,0,4,0,4,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.2.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.getMyProfessional.new Function2() {...},208,0,16,0,17,0,10,0,2,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutineCompliance.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.grantConsent.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.new Function2() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.new Function1() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.new Function1() {...},22,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.new Function2() {...},59,0,2,0,4,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getMyPatients.new Function1() {...},21,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.createOwnRoutine.1.resultado.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl,362,0,28,0,49,0,27,0,13,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.cerrarSesionLocal.new Function2() {...},83,0,2,0,8,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.leerPacientes.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.new Function2() {...},25,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.new Function1() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.new Function2() {...},62,0,0,0,8,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.new Function1() {...},33,0,0,0,3,0,2,0,2,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.new Function1() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.createTemplate.new Function1() {...},20,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.updatePassword.new Function2() {...},58,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getInvitations.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getInvitations.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.revokeConsent.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.acceptInvitation.new Function2() {...},90,0,10,0,7,0,6,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.saveSession.1.resultado.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExercises.new Function1() {...},29,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExercises.new Function1() {...},39,0,6,0,1,0,4,0,1,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExercises.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExercises.new Function2() {...},25,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.confirmRegistration.new Function2() {...},114,0,8,0,12,0,5,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.createRoutine.new Function1() {...},61,0,0,0,12,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.new Function2() {...},6,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.new Function1() {...},24,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.1.new Function1() {...},19,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getTemplates.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getTemplates.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.getMyInvitations.new Function2() {...},92,0,8,0,7,0,5,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutineCompliance.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutineCompliance.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getCompliance.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.saveSession.new Function2() {...},295,0,10,0,36,0,7,0,2,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.signOut.new Function2() {...},51,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.updatePatientProfile.new Function2() {...},187,0,8,0,20,0,6,0,2,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.getMyData.new Function2() {...},117,0,6,0,27,0,4,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.setTolerance.new Function1() {...},21,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExerciseVideos.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.assignTemplate.new Function1() {...},35,0,0,0,4,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getPatientRoutines.2.new Function1() {...},14,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.new Function1() {...},31,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.new Function2() {...},57,0,0,0,7,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.new Function1() {...},26,0,0,0,3,0,1,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.new Function2() {...},23,0,2,0,1,0,2,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.new Function1() {...},11,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.removePatient.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl,381,0,0,0,63,0,27,0,27,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.rejectInvitation.new Function2() {...},90,0,10,0,7,0,6,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.confirmPasswordReset.new Function2() {...},62,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.getOwnTolerance.new Function2() {...},90,0,10,0,7,0,6,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.restoreSession.2.respuesta.new Function2() {...},32,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.getTemplate.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.editRoutineExercises.new Function2() {...},100,0,2,0,8,0,3,0,2,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.Companion,3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.updateProfessionalProfile.new Function2() {...},119,0,10,0,11,0,6,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.setRoutineActive.1.new Function1() {...},17,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.resendCode.new Function2() {...},54,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImplKt,0,50,0,0,0,4,0,1,0,1
+app,com.steadypath.app.data.repository,ExerciseRepositoryImpl.getExercises.2.new Function1() {...},10,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.requestPasswordReset.new Function2() {...},54,0,2,0,3,0,2,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.restoreSession.new Function2() {...},177,0,16,0,16,0,9,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.getRoutine.new Function2() {...},111,0,8,0,8,0,5,0,1,0
+app,com.steadypath.app.data.repository,SessionRepositoryImpl.getHistory.2.new Function1() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,RoutineRepositoryImpl.createOwnRoutine.new Function2() {...},460,0,28,0,49,0,16,0,2,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl.calibrateOwnTolerance.new Function2() {...},101,0,10,0,8,0,6,0,1,0
+app,com.steadypath.app.data.repository,MedicRepositoryImpl.inviteByEmail.new Function1() {...},15,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.repository,AuthRepositoryImpl,909,0,38,0,116,0,50,0,31,0
+app,com.steadypath.app.domain.comparison.dtw,Dtw,2,724,4,92,0,98,4,52,0,8
+app,com.steadypath.app.domain.comparison.dtw,WrappedAngularDistance,0,157,0,26,0,19,0,15,0,2
+app,com.steadypath.app.domain.comparison.dtw,ShapeSimilarity,1,405,1,33,0,54,1,22,0,6
+app,com.steadypath.app.domain.comparison.dtw,DtwResult,0,42,0,2,0,6,0,7,0,6
+app,com.steadypath.app.data.session,UserSessionStoreKt,29,0,0,0,1,0,2,0,2,0
+app,com.steadypath.app.data.session,SesionesPendientesStoreKt,29,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore.Keys,16,0,0,0,3,0,4,0,4,0
+app,com.steadypath.app.data.session,UserSessionStore.Keys,56,0,0,0,11,0,12,0,12,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore.setMensajesDelProfesional.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,SesionesPendientesStore.tipo.new TypeToken() {...},3,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore.setResumenSemanal.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore.Keys,16,0,0,0,3,0,4,0,4,0
+app,com.steadypath.app.data.session,SesionesPendientesStore.clear.new Function2() {...},12,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,PendingRegistrationHolder,32,0,0,0,12,0,6,0,6,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore,62,0,0,0,15,0,5,0,5,0
+app,com.steadypath.app.data.session,CameraPreferencesStore,100,0,6,0,13,0,9,0,6,0
+app,com.steadypath.app.data.session,CameraPreferencesStore.setLenteProfesional.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore.setAlertasPacientesInactivos.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore.special..inlined.map.1.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.data.session,CameraPreferencesStore.setLentePaciente.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,CameraPreferencesStore.special..inlined.map.1.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.data.session,CameraPreferencesStore.Keys,11,0,0,0,2,0,3,0,3,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore.special..inlined.map.1.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore.setRecordatorioRutinaDiaria.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,SesionesPendientesStore.extraerTodas.new Function2() {...},85,0,8,0,8,0,5,0,1,0
+app,com.steadypath.app.data.session,SesionPendiente,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.session,NotificationPreferencesStoreKt,29,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.session,CameraPreferencesStore.special..inlined.map.2.2.new ContinuationImpl() {...},23,0,0,0,0,0,2,0,2,0
+app,com.steadypath.app.data.session,SesionesPendientesStore,61,0,0,0,10,0,3,0,3,0
+app,com.steadypath.app.data.session,CameraPreferencesStoreKt,29,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.session,UserSessionStore,167,0,16,0,23,0,13,0,5,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStore.setResumenSemanal.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore,62,0,0,0,15,0,5,0,5,0
+app,com.steadypath.app.data.session,UserSessionStore.clear.new Function2() {...},8,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,SessionCameraHolder,25,0,0,0,7,0,4,0,4,0
+app,com.steadypath.app.data.session,UserSessionStore.save.new Function2() {...},94,0,0,0,13,0,1,0,1,0
+app,com.steadypath.app.data.session,NotificationPreferencesStore.setAlertasDolorAlto.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+app,com.steadypath.app.data.session,PatientNotificationPreferencesStoreKt,29,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.dto,HealthDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,DailyActivityDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,AssignedProfessionalDto,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.data.dto,RoutineDto,51,0,0,0,9,0,9,0,9,0
+app,com.steadypath.app.data.dto,SavePatientReferenceRequestDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,SessionDto,51,0,0,0,9,0,9,0,9,0
+app,com.steadypath.app.data.dto,OwnToleranceDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,ExerciseComplianceDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,SaveOwnReferenceRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,TemplateExerciseDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,CreateOwnRoutineRequestDto,39,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,ToleranceDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,CreateSessionRequestDto,33,30,0,0,1,7,4,4,4,4
+app,com.steadypath.app.data.dto,UpdatePatientProfileRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,MovementReferenceDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,ExerciseDto,67,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.dto,ComplianceDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,UpdateProfessionalProfileRequestDto,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.data.dto,UserResponseDto,2,96,0,0,0,13,0,13,0,13
+app,com.steadypath.app.data.dto,ToleranceRequestDto,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.data.dto,CreateRoutineRequestDto,27,0,0,0,5,0,5,0,5,0
+app,com.steadypath.app.data.dto,RoutineStateRequestDto,9,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.dto,ExerciseVideoDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,EditTemplateRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,RecentSessionDto,39,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.data.dto,RoutineComplianceDto,51,0,0,0,9,0,9,0,9,0
+app,com.steadypath.app.data.dto,ZoneProgressDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,CreateInvitationRequestDto,9,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.dto,InvitationDto,46,0,0,0,7,0,7,0,7,0
+app,com.steadypath.app.data.dto,MisDatosDto,123,0,0,0,13,0,13,0,13,0
+app,com.steadypath.app.data.dto,AssignTemplateRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,SessionResultDto,45,0,0,0,8,0,8,0,8,0
+app,com.steadypath.app.data.dto,ProvisionRequestDto,92,0,0,0,10,0,10,0,10,0
+app,com.steadypath.app.data.dto,CreateTemplateRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,ErrorResponseDto,9,0,0,0,2,0,2,0,2,0
+app,com.steadypath.app.data.dto,PatientSummaryDto,15,45,0,0,1,8,1,8,1,8
+app,com.steadypath.app.data.dto,CalibrateOwnToleranceRequestDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,EditRoutineRequestDto,15,0,0,0,3,0,3,0,3,0
+app,com.steadypath.app.data.dto,SessionResultRequestDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,EvaRecordDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,CreateRoutineExerciseDto,21,0,0,0,4,0,4,0,4,0
+app,com.steadypath.app.data.dto,TemplateDto,33,0,0,0,6,0,6,0,6,0
+app,com.steadypath.app.data.dto,ProgressReportDto,63,0,0,0,11,0,11,0,11,0
+app,com.steadypath.app.data.dto,RoutineExerciseDto,77,0,0,0,10,0,10,0,10,0

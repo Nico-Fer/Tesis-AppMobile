@@ -1,0 +1,19 @@
+clave,valor
+fabricante,motorola
+modelo,motorola edge 30
+codename,dubai
+soc,SM7325 (QTI)
+gpu,Adreno (TM) 642L
+android,14
+api,34
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2515
+ram_mb,7382
+fingerprint,motorola/dubai_ge/dubai:14/U1RDS34.80-40-5-6/ba4fd-68ef4:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2048.2
+build_type,debug
+fecha,20261013-213053

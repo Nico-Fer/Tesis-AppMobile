@@ -1,0 +1,74 @@
+{
+  "_comment": "Referencia de ejemplo (flexión-extensión de codo bilateral, 1 rep a 20 fps). Convención: el archivo se llama {exerciseId}.json bajo assets/references/; para un ejercicio real, renombrar con su UUID de backend. Ángulos en radianes, mismo pipeline que DefaultAngleExtractor. La trayectoria cubre exactamente un ciclo VALLE→PICO→VALLE del ángulo conductor — la misma convención con la que PeakValleyRepetitionSegmenter recorta las repeticiones en vivo (acá: flexionado 0.6 rad → extendido π → flexionado 0.6 rad).",
+  "schemaVersion": 1,
+  "exerciseId": "sample-exercise",
+  "angleDefinitions": [
+    {
+      "name": "codo_izq",
+      "pointA": "LEFT_SHOULDER",
+      "vertex": "LEFT_ELBOW",
+      "pointC": "LEFT_WRIST",
+      "weight": 1.0
+    },
+    {
+      "name": "codo_der",
+      "pointA": "RIGHT_SHOULDER",
+      "vertex": "RIGHT_ELBOW",
+      "pointC": "RIGHT_WRIST",
+      "weight": 1.0
+    }
+  ],
+  "driverAngleIndex": 0,
+  "referenceTrajectory": [
+    [0.6, 0.6],
+    [0.6156, 0.6156],
+    [0.6622, 0.6622],
+    [0.7385, 0.7385],
+    [0.8427, 0.8427],
+    [0.9722, 0.9722],
+    [1.1238, 1.1238],
+    [1.2939, 1.2939],
+    [1.4781, 1.4781],
+    [1.672, 1.672],
+    [1.8708, 1.8708],
+    [2.0696, 2.0696],
+    [2.2635, 2.2635],
+    [2.4477, 2.4477],
+    [2.6178, 2.6178],
+    [2.7694, 2.7694],
+    [2.8989, 2.8989],
+    [3.0031, 3.0031],
+    [3.0794, 3.0794],
+    [3.1259, 3.1259],
+    [3.1416, 3.1416],
+    [3.1259, 3.1259],
+    [3.0794, 3.0794],
+    [3.0031, 3.0031],
+    [2.8989, 2.8989],
+    [2.7694, 2.7694],
+    [2.6178, 2.6178],
+    [2.4477, 2.4477],
+    [2.2635, 2.2635],
+    [2.0696, 2.0696],
+    [1.8708, 1.8708],
+    [1.672, 1.672],
+    [1.4781, 1.4781],
+    [1.2939, 1.2939],
+    [1.1238, 1.1238],
+    [0.9722, 0.9722],
+    [0.8427, 0.8427],
+    [0.7385, 0.7385],
+    [0.6622, 0.6622],
+    [0.6156, 0.6156],
+    [0.6, 0.6]
+  ],
+  "metadata": {
+    "fps": 20.0,
+    "version": "1.0",
+    "source": "sintetica-medio-coseno"
+  },
+  "scoring": {
+    "similarityScale": 0.8,
+    "goodThreshold": 0.6
+  }
+}

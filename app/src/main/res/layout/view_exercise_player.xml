@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    PlayerView del detalle del ejercicio.
+
+    Existe sólo para poder fijar surface_type="texture_view": ese atributo se lee en el
+    constructor de PlayerView y no tiene setter, así que no se puede configurar desde
+    Compose. Con el SurfaceView por defecto el video vive en una capa de ventana aparte
+    que no acompaña la animación de salida de Navigation, y al volver atrás quedaba un
+    rectángulo negro (o el último frame) hasta que el sistema destruía la superficie.
+    Un TextureView se dibuja dentro de la ventana de la app y se va con la jerarquía.
+-->
+<androidx.media3.ui.PlayerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:resize_mode="fit"
+    app:surface_type="texture_view"
+    app:use_controller="false" />

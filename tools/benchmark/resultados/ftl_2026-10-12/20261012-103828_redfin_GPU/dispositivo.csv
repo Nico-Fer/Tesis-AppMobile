@@ -1,0 +1,19 @@
+clave,valor
+fabricante,Google
+modelo,Pixel 5
+codename,redfin
+soc,redfin/redfin
+gpu,Adreno (TM) 620
+android,11
+api,30
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2400
+ram_mb,7457
+fingerprint,google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2027.7
+build_type,debug
+fecha,20261012-103828

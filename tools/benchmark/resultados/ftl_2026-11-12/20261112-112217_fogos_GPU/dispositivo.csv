@@ -1,0 +1,39 @@
+clave,valor
+fabricante,motorola
+modelo,moto g34 5G
+codename,fogos
+soc,SM6375 (QTI)
+gpu,Adreno (TM) 619
+android,14
+api,34
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2208
+ram_mb,3472
+fingerprint,motorola/fogos_gen/fogos:14/U1UGS34.23-110-23-4/38326-64efdd:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2249.6
+build_type,debug
+fecha,20261112-112217
+cargador_inicio,ac
+uid_batterystats,u0a346
+bateria_capacidad_estimada_mah,5051
+pss_antes_modelo_mb,115.3
+java_heap_antes_modelo_mb,11.7
+native_heap_antes_modelo_mb,2.2
+graficos_antes_modelo_mb,0.2
+rss_antes_modelo_mb,270.1
+vmhwm_antes_modelo_mb,270.1
+pss_con_modelo_mb,192.7
+java_heap_con_modelo_mb,12.3
+native_heap_con_modelo_mb,29.7
+graficos_con_modelo_mb,22.4
+rss_con_modelo_mb,348.7
+vmhwm_con_modelo_mb,350.9
+reposo_s,20.0
+reposo_cpu_pct,3.2425421530479897
+reposo_mah,0.014
+reposo_mah_por_min,0.04190362167015863
+reposo_rss_max_mb,350.19140625

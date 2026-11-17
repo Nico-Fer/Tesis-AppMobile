@@ -1,0 +1,39 @@
+clave,valor
+fabricante,motorola
+modelo,moto g53 5G
+codename,penang
+soc,SM4350 (QTI)
+gpu,Adreno (TM) 619
+android,14
+api,34
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2208
+ram_mb,3472
+fingerprint,motorola/penang_ge/penang:14/U1TPS34.29-83-7-3-10-1-5/35413b-ec747f:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,2665.6
+build_type,debug
+fecha,20261114-085134
+cargador_inicio,ac
+uid_batterystats,u0a343
+bateria_capacidad_estimada_mah,5000
+pss_antes_modelo_mb,115.2
+java_heap_antes_modelo_mb,11.9
+native_heap_antes_modelo_mb,2.2
+graficos_antes_modelo_mb,0.2
+rss_antes_modelo_mb,278.0
+vmhwm_antes_modelo_mb,278.0
+pss_con_modelo_mb,194.5
+java_heap_con_modelo_mb,12.3
+native_heap_con_modelo_mb,29.9
+graficos_con_modelo_mb,22.4
+rss_con_modelo_mb,358.4
+vmhwm_con_modelo_mb,358.5
+reposo_s,20.1
+reposo_cpu_pct,4.433595695925077
+reposo_mah,
+reposo_mah_por_min,
+reposo_rss_max_mb,359.84765625

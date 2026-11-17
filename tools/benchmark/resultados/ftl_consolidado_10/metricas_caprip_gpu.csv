@@ -1,0 +1,10 @@
+dispositivo,soc,android,modelo,delegate,fecha,hora,inferencia_ms,fps_inferencia,fps_efectivo
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,app_0002_sentadilla,349.4,2.9,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,app_0005_talones,353.0,2.8,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla,348.7,2.9,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla,348.6,2.9,2.0
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,app_0006_ext_rodilla_heldout,350.6,2.9,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e01_cam3,351.5,2.8,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,uco_s14_e05_cam0,350.5,2.9,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,uco_s4_e13_cam2,353.5,2.8,
+motorola moto g(30),SM6115 (QTI),12,yolov8n-pose_int8.tflite,GPU,20261012,uco_s11_e09_cam4,354.1,2.8,

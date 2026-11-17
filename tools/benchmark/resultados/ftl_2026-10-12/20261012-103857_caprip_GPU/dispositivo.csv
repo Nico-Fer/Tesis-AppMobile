@@ -1,0 +1,19 @@
+clave,valor
+fabricante,motorola
+modelo,moto g(30)
+codename,caprip
+soc,SM6115 (QTI)
+gpu,Adreno (TM) 610
+android,12
+api,31
+abi,arm64-v8a
+nucleos,8
+cpu_max_mhz,2016
+ram_mb,3722
+fingerprint,motorola/caprip_retail/caprip:12/S0RCS32.41-10-19-14/ab266e-36c3f31:user/release-keys
+modelo_tflite,yolov8n-pose_int8.tflite
+delegate_pedido,gpu
+delegate_efectivo,GPU
+init_modelo_ms,4228.5
+build_type,debug
+fecha,20261012-103857

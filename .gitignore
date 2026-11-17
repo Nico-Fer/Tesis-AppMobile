@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Modelos de ML — pesan varios MB y se versionan fuera del repo.
+# Colocá el .tflite en app/src/main/assets/ y apuntá PoseModelSpec.ACTIVE a su nombre.
+*.tflite
+
+# Benchmark de Test Lab: los clips se regeneran desde modelosCV con
+# tools/benchmark/preparar_clips.py (clips.json sí se versiona: es el catálogo). La línea
+# de base y los resultados sí se versionan, para analizarlos sin regenerar nada.
+app/src/androidTest/assets/benchmark/*.mp4
+
+# Credenciales de cuenta de servicio de Firebase/Google Cloud
+*service-account*.json
+ftl-credenciales*.json

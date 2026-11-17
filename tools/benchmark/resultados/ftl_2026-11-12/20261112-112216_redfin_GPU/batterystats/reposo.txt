@@ -1,0 +1,178 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 4000 mAh
+  Min learned battery capacity: 4158 mAh
+  Max learned battery capacity: 4158 mAh
+  Time on battery: 20s 42ms (99.4%) realtime, 20s 42ms (100.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 20s 159ms realtime, 20s 159ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-11-12-11-22-16
+  Screen on: 20s 42ms (100.0%) 0x, Interactive: 20s 42ms (100.0%)
+  Screen brightnesses:
+    dark 20s 42ms (100.0%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 20s 42ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  16s 450ms (82.1%)
+     Cellular Idle time:   3s 145ms (15.7%)
+     Cellular Rx time:     454ms (2.3%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular Battery drain: 0.155mAh
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       poor (-128dBm to -118dBm):  20s 42ms (100.0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 7s 318ms (36.5%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  20s 45ms (100.0%)
+     WiFi Idle time:   0ms (0.0%)
+     WiFi Rx time:     0ms (0.0%)
+     WiFi Tx time:     0ms (0.0%)
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states:
+       sta 20s 42ms (100.0%) 
+     Wifi supplicant states:
+       completed 20s 42ms (100.0%) 
+     Wifi Rx signal strength (RSSI):
+         great (greater than -55dBm): 20s 42ms (100.0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   2s 720ms (13.6%)
+     Bluetooth Rx time:     28s 865ms (144.0%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 4000, Computed drain: 1.11, actual drain: 0
+    Screen: 0.807 Excluded from smearing
+    Idle: 0.0613 Excluded from smearing
+    Uid 1000: 0.0571 ( cpu=0.0571 ) Excluded from smearing
+    Uid u0a192: 0.0567 ( cpu=0.0567 ) Including smearing: 0.0638 ( proportional=0.00715 )
+    Uid 0: 0.0346 ( cpu=0.0346 ) Excluded from smearing
+    Uid u0a273: 0.0141 ( cpu=0.0141 ) Including smearing: 0.0159 ( proportional=0.00178 )
+    Uid u0a180: 0.0103 ( cpu=0.0103 ) Excluded from smearing
+    Uid u0a151: 0.00817 ( cpu=0.00817 ) Including smearing: 0.00919 ( proportional=0.00103 )
+    Uid u0a272: 0.00657 ( cpu=0.00657 ) Including smearing: 0.00740 ( proportional=0.000828 )
+    Cell standby: 0.00557 ( radio=0.00557 ) Excluded from smearing
+    Uid 1037: 0.00524 ( cpu=0.00524 ) Excluded from smearing
+    Uid u0a186: 0.00512 ( cpu=0.00512 ) Including smearing: 0.00577 ( proportional=0.000645 )
+    Uid u0a174: 0.00500 ( cpu=0.00500 ) Including smearing: 0.00563 ( proportional=0.000630 )
+    Uid u0a252: 0.00498 ( cpu=0.00498 ) Including smearing: 0.00561 ( proportional=0.000628 )
+    Uid u0a253: 0.00486 ( cpu=0.00486 ) Including smearing: 0.00548 ( proportional=0.000613 )
+    Uid 2000: 0.00447 ( cpu=0.00447 ) Excluded from smearing
+    Wifi: 0.00319 ( cpu=0.00319 ) Including smearing: 0.00359 ( proportional=0.000402 )
+    Uid 1001: 0.00250 ( cpu=0.00250 ) Excluded from smearing
+    Uid u0a157: 0.00214 ( cpu=0.00214 ) Including smearing: 0.00240 ( proportional=0.000269 )
+    Uid u0a242: 0.00150 ( cpu=0.00150 ) Excluded from smearing
+    Uid 1036: 0.00111 ( cpu=0.00111 ) Excluded from smearing
+    Uid u0a179: 0.000996 ( cpu=0.000996 ) Including smearing: 0.00112 ( proportional=0.000125 )
+    Uid u0a161: 0.000969 ( cpu=0.000969 ) Including smearing: 0.00109 ( proportional=0.000122 )
+    Uid u0a185: 0.000949 ( cpu=0.000949 ) Including smearing: 0.00107 ( proportional=0.000120 )
+    Uid 1069: 0.000662 ( cpu=0.000662 ) Excluded from smearing
+    Uid 1066: 0.000592 ( cpu=0.000592 ) Excluded from smearing
+    Uid u0a162: 0.000433 ( cpu=0.000433 ) Including smearing: 0.000488 ( proportional=0.0000546 )
+    Bluetooth: 0.000428 ( cpu=0.000428 ) Including smearing: 0.000482 ( proportional=0.0000540 )
+    Uid u0a199: 0.000378 ( cpu=0.000378 ) Including smearing: 0.000425 ( proportional=0.0000476 )
+    Uid 1073: 0.000310 ( cpu=0.000310 ) Excluded from smearing
+    Uid 1041: 0.000153 ( cpu=0.000153 ) Excluded from smearing
+    Uid u0a172: 0.000108 ( cpu=0.000108 ) Including smearing: 0.000122 ( proportional=0.0000136 )
+    Uid u0a160: 0.000102 ( cpu=0.000102 ) Including smearing: 0.000115 ( proportional=0.0000129 )
+    Uid u0a234: 0.0000979 ( cpu=0.0000979 ) Including smearing: 0.000110 ( proportional=0.0000123 )
+    Uid u0a254: 0.0000638 ( cpu=0.0000638 ) Including smearing: 0.0000718 ( proportional=0.00000804 )
+    Uid u0a217: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000551 ( proportional=0.00000617 )
+    Uid u0a238: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000551 ( proportional=0.00000617 )
+    Uid u0a247: 0.0000489 ( cpu=0.0000489 ) Including smearing: 0.0000551 ( proportional=0.00000617 )
+    Uid u0a243: 0.0000416 ( cpu=0.0000416 ) Including smearing: 0.0000469 ( proportional=0.00000525 )
+    Uid u0a208: 0.0000394 ( cpu=0.0000394 ) Including smearing: 0.0000444 ( proportional=0.00000497 )
+    Uid u0a269: 0.0000200 ( cpu=0.0000200 ) Including smearing: 0.0000225 ( proportional=0.00000252 )
+    Uid u0a260: 0.0000189 ( cpu=0.0000189 ) Including smearing: 0.0000213 ( proportional=0.00000238 )
+    Uid 1027: 0.00000072 ( cpu=0.00000072 ) Excluded from smearing
+    Uid 1047: 0.00000061 ( cpu=0.00000061 ) Excluded from smearing
+    Uid u0a214: 0.00000056 ( cpu=0.00000056 ) Including smearing: 0.00000063 ( proportional=0.00000007 )
+
+  Resource Power Manager Stats
+    ADSP.Sleep: 13s 351ms realtime (1100 times)
+    Display.1080x2340@90: 20s 43ms realtime (0 times)
+    ADSP_ISLAND.Sleep: 10s 186ms realtime (503 times)
+    APSS.Sleep: 10s 381ms realtime (458 times)
+    MPSS.Sleep: 16s 470ms realtime (124 times)
+    CDSP.Sleep: 20s 43ms realtime (0 times)
+
+  CPU freqs: 300000 576000 614400 864000 902400 1363200 1516800 1651200 1804800 652800 940800 1094400 1478400 1728000 1900800 2092800 2208000 806400 1094400 1401600 1766400 1996800 2188800 2304000 2400000
+
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock *telephony-radio* realtime
+    Foreground for: 20s 42ms 
+    Total running: 20s 42ms 
+    Total cpu time: u=940ms s=1s 177ms 
+    Total cpu time per freq: 0 1060 15 117 1 154 9 26 506 5 0 0 1 2 14 12 0 14 1 1 1 5 0 2 21
+    Proc rlsservice:
+      CPU: 160ms usr + 2s 80ms krn ; 0ms fg
+    Proc vendor.qti.hardware.display.composer-service:
+      CPU: 420ms usr + 520ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 110ms usr + 70ms krn ; 0ms fg
+    Proc android.system.suspend@1.0-service:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc android.hardware.sensors@2.0-service.multihal:
+      CPU: 1s 760ms usr + 1s 490ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 4s 830ms usr + 8s 440ms krn ; 0ms fg
+    Proc system:
+      CPU: 13s 680ms usr + 5s 400ms krn ; 0ms fg
+    Proc android.hardware.health@2.1-service:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc android.hardware.keymaster@4.0-service-qti:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc vendor.qti.hardware.display.allocator-service:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Apk android:
+      Wakeup alarm *walarm*:WifiConnectivityManager Schedule Periodic Scan Timer: 0 times
+  u0a273:
+    Foreground services: 20s 42ms realtime (0 times) (running)
+    Fg Service for: 20s 42ms 
+    Total running: 20s 42ms 
+    Total cpu time: u=543ms s=128ms 
+    Total cpu time per freq: 0 570 8 49 0 31 0 4 11 0 0 0 0 0 0 0 0 2 0 0 9 0 0 0 0
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 18
+All UID cpu time reads since the later of device start or stats reset: 12
+UIDs removed since the later of device start or stats reset: 3

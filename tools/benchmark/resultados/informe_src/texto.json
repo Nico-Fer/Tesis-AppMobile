@@ -1,0 +1,86 @@
+{
+  "titulo": "Rendimiento del pipeline de estimación de pose en dispositivos Android de gama media",
+  "subtitulo": "Pruebas automatizadas en Firebase Test Lab · DOMI.IA · 12 de octubre de 2026",
+  "objetivo": [
+    "Medir el rendimiento del pipeline de estimación de pose de la aplicación —preprocesado, inferencia de YOLOv8n-Pose INT8 y postprocesado— en cinco dispositivos Android físicos de gama media distintos de los medidos manualmente, con un procedimiento automatizado y repetible. Además, verificar que en esos dispositivos la calidad de los keypoints y el conteo de repeticiones se mantienen."
+  ],
+  "entorno": [
+    "**Plataforma:** Firebase Test Lab, dispositivos físicos, lanzados desde Gradle con el plugin com.google.firebase.testlab 0.0.1-alpha13. Los cinco equipos corrieron en paralelo el 12/10/2026.",
+    "**Aplicación:** build debug, la misma configuración con la que se midió manualmente el Galaxy A72.",
+    "**Modelo:** yolov8n-pose_int8.tflite (YOLOv8n-Pose de Ultralytics cuantizado a INT8, con entrada y salida float32 y entrada de 640×640). Es el modelo activo de la aplicación.",
+    "**Aceleración:** delegate de GPU de LiteRT con respaldo en CPU/XNNPACK, igual que en producción. Los cinco equipos usaron la GPU.",
+    "**Prueba:** PoseBenchmarkTest (prueba instrumentada). Hizo una pasada por los 9 clips en cada dispositivo (195 s de video). Se aprobaron las 10 pruebas de cada equipo (9 clips y una verificación del paquete), con 237–265 s de ejecución por equipo."
+  ],
+  "dispositivos_intro": "Se eligieron cinco equipos de gama media del catálogo de Test Lab con SoC Snapdragon y GPU Adreno. Es la misma familia que la de los dispositivos medidos manualmente (Galaxy A72 y Redmi Note 9 Pro con Snapdragon 720G, Moto G60 con 732G, Galaxy S20 FE con 865), pero sin repetir esos modelos. La muestra va de la Adreno 610 a la 642L, con la Adreno 618 de los equipos medidos en el medio. Incluye además dos equipos con el mismo SoC y distinto fabricante, para separar el efecto del chip del de la marca.",
+  "clips_intro": "Se usaron nueve clips del dataset del proyecto (Tabla 2). Cinco son grabaciones propias con celular, el dominio de la aplicación. Los otros cuatro provienen de UCO Physical Rehabilitation: son de sujetos del conjunto de validación del fold 0 y traen anotación de referencia (GT) de tres articulaciones por cuadro. Los clips de UCO se recortaron a 24 s y a una ventana alrededor del sujeto. Se excluyeron los ejercicios en decúbito supino, en los que el modelo falla incluso en escritorio.",
+  "clips": [
+    {"id": "app_0001_elevacion_lateral", "origen": "Grabación propia (ejercicio 0001)", "duracion": "11,4 s", "uso": "Rendimiento y DTW (fuente de la referencia)"},
+    {"id": "app_0002_sentadilla", "origen": "Grabación propia (ejercicio 0002)", "duracion": "16,5 s", "uso": "Rendimiento y DTW (fuente de la referencia)"},
+    {"id": "app_0005_talones", "origen": "Grabación propia (ejercicio 0005)", "duracion": "24,8 s", "uso": "Rendimiento y DTW (fuente de la referencia)"},
+    {"id": "app_0006_ext_rodilla", "origen": "Grabación propia (ejercicio 0006)", "duracion": "30,3 s", "uso": "Rendimiento y DTW (fuente de la referencia)"},
+    {"id": "app_0006_ext_rodilla_heldout", "origen": "Toma alternativa del ejercicio 0006", "duracion": "15,8 s", "uso": "Rendimiento y DTW (no usada para la referencia)"},
+    {"id": "uco_s4_e01_cam3", "origen": "UCO, sujeto 4, ejercicio 01, cámara 3", "duracion": "24,0 s", "uso": "Rendimiento y precisión contra GT"},
+    {"id": "uco_s14_e05_cam0", "origen": "UCO, sujeto 14, ejercicio 05, cámara 0", "duracion": "24,0 s", "uso": "Rendimiento y precisión contra GT"},
+    {"id": "uco_s4_e13_cam2", "origen": "UCO, sujeto 4, ejercicio 13, cámara 2", "duracion": "24,0 s", "uso": "Rendimiento y precisión contra GT"},
+    {"id": "uco_s11_e09_cam4", "origen": "UCO, sujeto 11, ejercicio 09, cámara 4", "duracion": "24,0 s", "uso": "Rendimiento y precisión contra GT"}
+  ],
+  "procedimiento": [
+    "Cada clip se reproduce como si fuera la cámara. Los frames se decodifican a YUV_420_888 y entran por el mismo método que usa el analizador de CameraX en la aplicación, estimate(ImageProxy, rotationDegrees). Por eso la conversión YUV→RGB, la rotación, el letterbox a 640×640 y la normalización son las de producción.",
+    "Un reloj virtual reproduce la estrategia KEEP_ONLY_LATEST de CameraX: mientras el pipeline procesa un frame, los que llegan se descartan, y al liberarse toma el último disponible. Así, la cantidad de frames analizados por segundo y la cadencia que recibe el comparador son las que tendría un paciente con ese dispositivo. La decodificación del video no entra en ninguna medición.",
+    "Las poses detectadas se pasan al comparador DTW de la aplicación contra la referencia empaquetada de cada ejercicio, igual que en una sesión real. Se usaron las siguientes métricas:"
+  ],
+  "metricas": [
+    "**Inferencia:** tiempo de Interpreter.run más la copia de la salida. Es el valor que reporta el log de la aplicación.",
+    "**Preprocesado y postprocesado:** el preprocesado comprende la conversión y el letterbox antes del modelo; el postprocesado, la decodificación, la supresión de no máximos y el des-letterbox posteriores.",
+    "**fps efectivos:** frames analizados divididos por la duración del video. El techo son 25–30 fps, la tasa del video.",
+    "**Detección:** proporción de frames procesados con una persona por encima del umbral de 0,25.",
+    "**Desvío contra escritorio:** distancia entre los keypoints del dispositivo y los del mismo .tflite en CPU de escritorio sobre el mismo frame, expresada en fracción del alto del cuadro.",
+    "**PCK@0,10:** proporción de articulaciones anotadas en UCO con error menor al 10 % del alto del cuadro."
+  ],
+  "warmup": 3,
+  "rendimiento_intro": "La Tabla 3 resume los tiempos por frame. En los cinco equipos la inferencia corrió en el delegate de GPU; ninguno recurrió a la CPU.",
+  "rendimiento_obs": [
+    "**La inferencia escala con la GPU:** 351 ms en la Adreno 610, 117–118 ms en las Adreno 619/620 y 74 ms en la Adreno 642L. Solo por el modelo, eso equivale a 2,8, ~8,5 y 13,4 inferencias por segundo.",
+    "**El preprocesado ocupa entre el 28 % y el 60 % del tiempo por frame.** Supera a la inferencia en tres de los cinco equipos (moto g34, Pixel 5 y Galaxy A52s), así que es el principal cuello de botella en la gama media-alta.",
+    "**Los dos equipos con Snapdragon 695 tienen la misma inferencia** (117,3 y 118,5 ms), pero el preprocesado difiere en 50 ms (152 contra 102 ms). La diferencia entre fabricantes está en la CPU, no en la GPU, y explica los fps efectivos distintos (3,7 contra 4,5).",
+    "**El postprocesado es despreciable** (1–4 ms).",
+    "**La carga del modelo con el delegate de GPU tarda 2,0–2,3 s** (4,2 s en el moto g30). Es la espera que el paciente ve al abrir la pantalla de ejercicio."
+  ],
+  "termico_intro": "Para detectar limitación térmica se comparó la mediana de inferencia del primer y del último tercio de cada corrida, que suman unos 4 minutos de uso continuo del modelo.",
+  "termico_obs": "Ningún dispositivo mostró deriva: la variación fue de 0,3 % o menos en valor absoluto y ninguno pasó del estado térmico 0. La temperatura de batería se mantuvo entre 22 y 27 °C. El Galaxy A72 medido manualmente recién empezó a degradarse (de 122 a 160 ms) después de unos 10 minutos de uso, así que esta corrida no alcanza para caracterizar sesiones largas. El benchmark permite repetir la pasada (parámetro benchmark.vueltas) para medirlas.",
+  "precision_intro": "Para verificar que el delegate de GPU no degrada la estimación, cada pose del dispositivo se comparó con la que da el mismo modelo en CPU de escritorio sobre el mismo frame. En los clips de UCO, además, se comparó con la anotación de referencia.",
+  "precision_obs": "Los cinco dispositivos detectaron a la persona en el 100 % de los frames, igual que en escritorio. El desvío mediano contra escritorio es de 0,0016–0,0017 del alto del cuadro, alrededor de 1 píxel en 640, y la PCK@0,10 del dispositivo (0,960–0,963) coincide con la de escritorio (0,960–0,962). La precisión reducida de la GPU no altera los keypoints de forma apreciable en ninguna de las cuatro GPU Adreno evaluadas.",
+  "reps_intro": "En los cinco clips con ejercicio de la aplicación, las poses detectadas se pasaron por el comparador DTW contra la referencia empaquetada. Las poses llegan con la cadencia de cada dispositivo (Figura 2), igual que en una sesión real.",
+  "reps_obs": [
+    "**Conteo estable:** en tres ejercicios el conteo es el mismo en los cinco dispositivos (2/2, 4/4 y 6/7), aunque la cadencia va de 2,1 a 6 fps.",
+    "**El conteo en la extensión de rodillas (0006) aumenta con los fps efectivos:** 3 repeticiones a 2,1 fps, 4 a 3,5–3,7 fps, 6 a 4,5 fps y 7 a 5,9 fps. En el clip hay 4 extensiones reales de la rodilla izquierda (≥ 0,6 rad en la línea de base de escritorio). El segmentador cuenta de más cuanto más densa es la señal, de modo que sus umbrales dependen de la tasa de muestreo y conviene revisarlos.",
+    "**El puntaje de la sentadilla (0002) es bajo en todos los equipos** (0,23–0,27), aun siendo el clip del que salió su referencia. Como no varía entre dispositivos, el problema está en la calibración de la referencia o del puntaje de ese ejercicio y no en el hardware. La elevación lateral (0001) puntúa 0,86–0,91.",
+    "**La toma held-out de 0006** puntúa 0,53–0,81, con valores más altos en los equipos más rápidos."
+  ],
+  "comparacion": [
+    "El único dispositivo medido manualmente con la aplicación (Galaxy A72, Snapdragon 720G con Adreno 618, Android 14, build debug) dio una mediana de inferencia de 130,1 ms y de 3,5 fps efectivos, sobre 85 muestras. Los tres equipos de Test Lab con una GPU de la misma clase (Adreno 619/620) dan 117–118 ms y 3,5–4,5 fps, es decir, el mismo orden de magnitud. La inferencia algo menor es coherente con dos hechos: estas GPU son levemente más rápidas que la 618, y la medición del A72 incluye la degradación térmica de su segunda mitad y la competencia de la cámara y la vista previa por la CPU y la GPU.",
+    "No se incluyen los registros del Moto G60 y del Redmi Note 9 Pro, porque no son mediciones: son las muestras del A72 multiplicadas por un factor (0,9 y 1,0)."
+  ],
+  "comparacion_tabla": [
+    ["Galaxy A72, aplicación en uso real (medición manual)", "130,1 ms", "162,7 ms", "3,5"],
+    ["Test Lab, Adreno 619/620 (moto g34, Nord CE3 Lite, Pixel 5)", "117,3–118,5 ms", "119,6–121,5 ms", "3,5–4,5"],
+    ["Test Lab, los cinco equipos (Adreno 610 a 642L)", "74,4–351,2 ms", "75,7–354,1 ms", "2,1–5,9"]
+  ],
+  "conclusiones": [
+    "En la gama media con GPU Adreno 619/620, la misma clase que la de los equipos medidos, el pipeline analiza 3,5–4,5 cuadros por segundo con una inferencia de unos 117 ms, en línea con la medición manual en el Galaxy A72 (130 ms y 3,5 fps).",
+    "En toda la gama media evaluada, los fps efectivos van de 2,1 (Adreno 610) a 5,9 (Adreno 642L). La inferencia escala con la GPU y baja de 351 a 74 ms.",
+    "El preprocesado en Kotlin (conversión YUV→RGB, rotación, letterbox y normalización) consume entre el 28 % y el 60 % de cada frame y supera a la inferencia en tres de los cinco equipos. Es la principal oportunidad de optimización, por delante de seguir reduciendo el modelo.",
+    "El delegate de GPU no degrada la precisión: los keypoints difieren de los de escritorio en alrededor de 1 píxel, la PCK es la misma y la detección es del 100 % en todos los equipos.",
+    "El conteo de repeticiones es estable entre dispositivos en tres de los cuatro ejercicios, pero en la extensión de rodillas crece con la cadencia. Conviene resolver esa sensibilidad del segmentador antes de comparar dispositivos por métricas de repetición.",
+    "No se observó limitación térmica en corridas de unos 4 minutos. Las sesiones largas quedan por medir."
+  ],
+  "limitaciones": [
+    "No hay cámara, vista previa ni interfaz compitiendo por CPU y GPU, así que los fps efectivos son un techo de los que se obtienen en la aplicación. La inferencia sí es comparable directamente con el log de la aplicación.",
+    "Se usó el build debug: el preprocesado en Kotlin corre con menos optimización que en release. La inferencia, que es código nativo, no se ve afectada.",
+    "Se hizo una sola corrida por dispositivo, de unos 4 minutos, que no alcanza para observar la limitación térmica de sesiones largas.",
+    "Test Lab no permite controlar la temperatura ambiente ni la carga de fondo de los equipos.",
+    "Los dispositivos de Test Lab no son los mismos modelos medidos manualmente, así que la comparación de la sección 4 es por clase de hardware y no equipo a equipo.",
+    "Las repeticiones «esperadas» provienen del generador de referencias, no de un conteo manual."
+  ],
+  "anexo_intro": "Mediana de inferencia y fps efectivos de cada clip en cada dispositivo. Los clips se ejecutaron en este orden, uno a continuación del otro."
+}
