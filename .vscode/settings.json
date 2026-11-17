@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "chat.tools.terminal.autoApprove": {
+        ".\\gradlew": true,
+        "0..40": true,
+        "ForEach-Object": true
+    }
+}
